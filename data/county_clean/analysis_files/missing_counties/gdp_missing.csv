@@ -1,0 +1,71 @@
+State,County Name,FIPS State,FIPS County
+Arizona,Mohave,04,015
+Connecticut,Fairfield,09,001
+Connecticut,Hartford,09,003
+Connecticut,Litchfield,09,005
+Connecticut,Middlesex,09,007
+Connecticut,New Haven,09,009
+Connecticut,New London,09,011
+Connecticut,Tolland,09,013
+Connecticut,Windham,09,015
+District of Columbia,Montgomery,11,031
+Indiana,Newton,18,111
+Iowa,Keokuk,19,107
+Kansas,Hamilton,20,075
+Ohio,Ross,39,141
+South Dakota,Shannon,46,113
+Virginia,Albemarle,51,003
+Virginia,Alleghany,51,005
+Virginia,Augusta,51,015
+Virginia,Campbell,51,031
+Virginia,Carroll,51,035
+Virginia,Dinwiddie,51,053
+Virginia,Fairfax,51,059
+Virginia,Frederick,51,069
+Virginia,Greensville,51,081
+Virginia,Henry,51,089
+Virginia,James City,51,095
+Virginia,Montgomery,51,121
+Virginia,Pittsylvania,51,143
+Virginia,Prince George,51,149
+Virginia,Prince William,51,153
+Virginia,Roanoke,51,161
+Virginia,Rockbridge,51,163
+Virginia,Rockingham,51,165
+Virginia,Southampton,51,175
+Virginia,Spotsylvania,51,177
+Virginia,Washington,51,191
+Virginia,Wise,51,195
+Virginia,York,51,199
+Virginia,Bedford City,51,515
+Virginia,Bristol City,51,520
+Virginia,Buena Vista City,51,530
+Virginia,Charlottesville City,51,540
+Virginia,Clifton Forge City,51,560
+Virginia,Colonial Heights City,51,570
+Virginia,Covington City,51,580
+Virginia,Danville City,51,590
+Virginia,Emporia City,51,595
+Virginia,Fairfax City,51,600
+Virginia,Falls Church City,51,610
+Virginia,Franklin City,51,620
+Virginia,Fredericksburg City,51,630
+Virginia,Galax City,51,640
+Virginia,Harrisonburg City,51,660
+Virginia,Hopewell City,51,670
+Virginia,Lexington City,51,678
+Virginia,Lynchburg City,51,680
+Virginia,Manassas City,51,683
+Virginia,Manassas Park City,51,685
+Virginia,Martinsville City,51,690
+Virginia,Norton City,51,720
+Virginia,Petersburg City,51,730
+Virginia,Poquoson City,51,735
+Virginia,Radford,51,750
+Virginia,Salem City,51,775
+Virginia,South Boston City,51,780
+Virginia,Staunton City,51,790
+Virginia,Waynesboro City,51,820
+Virginia,Williamsburg City,51,830
+Virginia,Winchester City,51,840
+Wisconsin,Fond Du Lac,55,039

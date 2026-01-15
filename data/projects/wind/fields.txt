@@ -1,0 +1,25 @@
+ez_gis.plant_power_eia_v8_wind.dbf contains the following fields.
+Field names are limited to 10 characters in .dbf format. This file provides the original extended field names and field aliases.
+
+Field Name | Extended Field Name | Alias
+-----------+---------------------+-----------
+plant_code | plant_code          | Plant Code
+plant_name | plant_name          | Plant Name
+utility_na | utility_na          | Utility Name
+utility_id | utility_id          | Utility ID
+sector_nam | sector_nam          | Sector Name
+city       | city                | City
+county     | county              | County
+statename  | statename           | State Name
+zip        | zip                 | Zip Code
+street_add | street_add          | Street
+primsource | primsource          | Primary Energy Source
+install_mw | install_mw          | Nameplace (Installed) Capacity (MW)
+total_mw   | total_mw            | Maximum Summer Output (MW)
+wind_mw    | wind_mw             | Net Summer Capacity from Wind (MW)
+source_des | source_des          | Source Description
+tech_desc  | tech_desc           | Technology Description
+source     | source              | Data Source
+period     | period              | Data Time Period (YYYYMM)
+latitude   | latitude            | Latitude
+longitude  | longitude           | Longitude

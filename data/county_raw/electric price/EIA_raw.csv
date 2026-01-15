@@ -1,0 +1,1001 @@
+county,short_form,state,utility_id_eia,utility_name_eia,report_date,state_id_fips,county_id_fips,data_maturity
+Abbeville,,SC,34,City of Abbeville,2001-01-01,45,45001,final
+Monroe,,MS,55,City of Aberdeen,2001-01-01,28,28095,final
+Vermilion,,LA,59,City of Abbeville,2001-01-01,22,22113,final
+Somerset,,MD,84,A & N Electric Cooperative,2001-01-01,24,24039,final
+Accomack,,VA,84,A & N Electric Cooperative,2001-01-01,51,51001,final
+Northampton,,VA,84,A & N Electric Cooperative,2001-01-01,51,51131,final
+Norman,,MN,87,City of Ada,2001-01-01,27,27107,final
+Adams,,IL,97,Adams Electric Cooperative,2001-01-01,17,17001,final
+Brown,,IL,97,Adams Electric Cooperative,2001-01-01,17,17009,final
+Schuyler,,IL,97,Adams Electric Cooperative,2001-01-01,17,17169,final
+Adams,,WI,108,Adams-Columbia Electric Coop,2001-01-01,55,55001,final
+Columbia,,WI,108,Adams-Columbia Electric Coop,2001-01-01,55,55021,final
+Dane,,WI,108,Adams-Columbia Electric Coop,2001-01-01,55,55025,final
+Dodge,,WI,108,Adams-Columbia Electric Coop,2001-01-01,55,55027,final
+Green Lake,,WI,108,Adams-Columbia Electric Coop,2001-01-01,55,55047,final
+Jefferson,,WI,108,Adams-Columbia Electric Coop,2001-01-01,55,55055,final
+Marquette,,WI,108,Adams-Columbia Electric Coop,2001-01-01,55,55077,final
+Portage,,WI,108,Adams-Columbia Electric Coop,2001-01-01,55,55097,final
+Sauk,,WI,108,Adams-Columbia Electric Coop,2001-01-01,55,55111,final
+Waupaca,,WI,108,Adams-Columbia Electric Coop,2001-01-01,55,55135,final
+Waushara,,WI,108,Adams-Columbia Electric Coop,2001-01-01,55,55137,final
+Wood,,WI,108,Adams-Columbia Electric Coop,2001-01-01,55,55141,final
+Adams,,OH,118,"Adams Rural Electric Coop, Inc",2001-01-01,39,39001,final
+Brown,,OH,118,"Adams Rural Electric Coop, Inc",2001-01-01,39,39015,final
+Highland,,OH,118,"Adams Rural Electric Coop, Inc",2001-01-01,39,39071,final
+Pike,,OH,118,"Adams Rural Electric Coop, Inc",2001-01-01,39,39131,final
+Scioto,,OH,118,"Adams Rural Electric Coop, Inc",2001-01-01,39,39145,final
+Cattaraugus,,NY,122,Village of Arcade,2001-01-01,36,36009,final
+Erie,,NY,122,Village of Arcade,2001-01-01,36,36029,final
+Wyoming,,NY,122,Village of Arcade,2001-01-01,36,36121,final
+Cook,,GA,123,City of Adel,2001-01-01,13,13075,final
+Tift,,GA,123,City of Adel,2001-01-01,13,13277,final
+Union,,IA,149,City of Afton,2001-01-01,19,19175,final
+Nobles,,MN,150,Adrian Public Utilities Comm,2001-01-01,27,27105,final
+Big Stone,,MN,155,Agralite Electric Cooperative,2001-01-01,27,27011,final
+Pope,,MN,155,Agralite Electric Cooperative,2001-01-01,27,27121,final
+Stevens,,MN,155,Agralite Electric Cooperative,2001-01-01,27,27149,final
+Swift,,MN,155,Agralite Electric Cooperative,2001-01-01,27,27151,final
+Boone,,IN,157,Town of Advance,2001-01-01,18,18011,final
+Aiken,,SC,162,Aiken Electric Cooperative Inc,2001-01-01,45,45003,final
+Barnwell,,SC,162,Aiken Electric Cooperative Inc,2001-01-01,45,45011,final
+Calhoun,,SC,162,Aiken Electric Cooperative Inc,2001-01-01,45,45017,final
+Edgefield,,SC,162,Aiken Electric Cooperative Inc,2001-01-01,45,45037,final
+Greenwood,,SC,162,Aiken Electric Cooperative Inc,2001-01-01,45,45047,final
+Lexington,,SC,162,Aiken Electric Cooperative Inc,2001-01-01,45,45063,final
+McCormick,,SC,162,Aiken Electric Cooperative Inc,2001-01-01,45,45065,final
+Orangeburg,,SC,162,Aiken Electric Cooperative Inc,2001-01-01,45,45075,final
+Saluda,,SC,162,Aiken Electric Cooperative Inc,2001-01-01,45,45081,final
+Aitkin,,MN,174,Aitkin Public Utilities Comm,2001-01-01,27,27001,final
+Pima,,AZ,176,Ajo Improvement Company,2001-01-01,4,4019,final
+Plymouth,,IA,182,City of Akron,2001-01-01,19,19149,final
+Erie,,NY,183,Village of Akron,2001-01-01,36,36029,final
+Lincoln,,NV,191,Alamo Power District No 3,2001-01-01,32,32017,final
+Bethel,,AK,192,Akiachak Native Community Electric Co.,2001-01-01,2,2050,final
+Autauga,,AL,195,Alabama Power Co,2001-01-01,1,1001,final
+Baldwin,,AL,195,Alabama Power Co,2001-01-01,1,1003,final
+Barbour,,AL,195,Alabama Power Co,2001-01-01,1,1005,final
+Bibb,,AL,195,Alabama Power Co,2001-01-01,1,1007,final
+Blount,,AL,195,Alabama Power Co,2001-01-01,1,1009,final
+Bullock,,AL,195,Alabama Power Co,2001-01-01,1,1011,final
+Butler,,AL,195,Alabama Power Co,2001-01-01,1,1013,final
+Calhoun,,AL,195,Alabama Power Co,2001-01-01,1,1015,final
+Chambers,,AL,195,Alabama Power Co,2001-01-01,1,1017,final
+Cherokee,,AL,195,Alabama Power Co,2001-01-01,1,1019,final
+Chilton,,AL,195,Alabama Power Co,2001-01-01,1,1021,final
+Choctaw,,AL,195,Alabama Power Co,2001-01-01,1,1023,final
+Clarke,,AL,195,Alabama Power Co,2001-01-01,1,1025,final
+Clay,,AL,195,Alabama Power Co,2001-01-01,1,1027,final
+Cleburne,,AL,195,Alabama Power Co,2001-01-01,1,1029,final
+Coffee,,AL,195,Alabama Power Co,2001-01-01,1,1031,final
+Conecuh,,AL,195,Alabama Power Co,2001-01-01,1,1035,final
+Coosa,,AL,195,Alabama Power Co,2001-01-01,1,1037,final
+Covington,,AL,195,Alabama Power Co,2001-01-01,1,1039,final
+Crenshaw,,AL,195,Alabama Power Co,2001-01-01,1,1041,final
+Cullman,,AL,195,Alabama Power Co,2001-01-01,1,1043,final
+Dale,,AL,195,Alabama Power Co,2001-01-01,1,1045,final
+Dallas,,AL,195,Alabama Power Co,2001-01-01,1,1047,final
+Elmore,,AL,195,Alabama Power Co,2001-01-01,1,1051,final
+Escambia,,AL,195,Alabama Power Co,2001-01-01,1,1053,final
+Etowah,,AL,195,Alabama Power Co,2001-01-01,1,1055,final
+Fayette,,AL,195,Alabama Power Co,2001-01-01,1,1057,final
+Franklin,,AL,195,Alabama Power Co,2001-01-01,1,1059,final
+Geneva,,AL,195,Alabama Power Co,2001-01-01,1,1061,final
+Greene,,AL,195,Alabama Power Co,2001-01-01,1,1063,final
+Hale,,AL,195,Alabama Power Co,2001-01-01,1,1065,final
+Henry,,AL,195,Alabama Power Co,2001-01-01,1,1067,final
+Houston,,AL,195,Alabama Power Co,2001-01-01,1,1069,final
+Jefferson,,AL,195,Alabama Power Co,2001-01-01,1,1073,final
+Lamar,,AL,195,Alabama Power Co,2001-01-01,1,1075,final
+Lawrence,,AL,195,Alabama Power Co,2001-01-01,1,1079,final
+Lee,,AL,195,Alabama Power Co,2001-01-01,1,1081,final
+Lowndes,,AL,195,Alabama Power Co,2001-01-01,1,1085,final
+Macon,,AL,195,Alabama Power Co,2001-01-01,1,1087,final
+Marengo,,AL,195,Alabama Power Co,2001-01-01,1,1091,final
+Marion,,AL,195,Alabama Power Co,2001-01-01,1,1093,final
+Marshall,,AL,195,Alabama Power Co,2001-01-01,1,1095,final
+Mobile,,AL,195,Alabama Power Co,2001-01-01,1,1097,final
+Monroe,,AL,195,Alabama Power Co,2001-01-01,1,1099,final
+Montgomery,,AL,195,Alabama Power Co,2001-01-01,1,1101,final
+Perry,,AL,195,Alabama Power Co,2001-01-01,1,1105,final
+Pickens,,AL,195,Alabama Power Co,2001-01-01,1,1107,final
+Randolph,,AL,195,Alabama Power Co,2001-01-01,1,1111,final
+Russell,,AL,195,Alabama Power Co,2001-01-01,1,1113,final
+Saint Clair,,AL,195,Alabama Power Co,2001-01-01,1,1115,final
+Shelby,,AL,195,Alabama Power Co,2001-01-01,1,1117,final
+Sumter,,AL,195,Alabama Power Co,2001-01-01,1,1119,final
+Talladega,,AL,195,Alabama Power Co,2001-01-01,1,1121,final
+Tallapoosa,,AL,195,Alabama Power Co,2001-01-01,1,1123,final
+Tuscaloosa,,AL,195,Alabama Power Co,2001-01-01,1,1125,final
+Walker,,AL,195,Alabama Power Co,2001-01-01,1,1127,final
+Washington,,AL,195,Alabama Power Co,2001-01-01,1,1129,final
+Wilcox,,AL,195,Alabama Power Co,2001-01-01,1,1131,final
+Winston,,AL,195,Alabama Power Co,2001-01-01,1,1133,final
+Sioux,,IA,198,City of Alton,2001-01-01,19,19167,final
+Alachua,,FL,201,City of Alachua,2001-01-01,12,12001,final
+Wilson,,NC,202,Town of Black Creek,2001-01-01,37,37195,final
+Alameda,,CA,207,City of Alameda,2001-01-01,6,6001,final
+Juneau,,AK,213,Alaska Electric Light & Pwr Co,2001-01-01,2,2110,final
+Haines,,AK,219,Alaska Power Co,2001-01-01,2,2100,final
+Prince of Wales-Hyder Census Area,,AK,219,Alaska Power Co,2001-01-01,2,2198,final
+Southeast Fairbanks Census Area,,AK,219,Alaska Power Co,2001-01-01,2,2240,final
+Yukon-Koyukuk,,AK,219,Alaska Power Co,2001-01-01,2,2290,final
+Kodiak Island,,AK,221,"Alaska Village Elec Coop, Inc",2001-01-01,2,2150,final
+Gentry,,MO,228,City of Albany,2001-01-01,29,29075,final
+Whiteside,,IL,229,City of Albany,2001-01-01,17,17195,final
+Dougherty,,GA,230,Albany Water Gas & Light Comm,2001-01-01,13,13095,final
+Lee,,GA,230,Albany Water Gas & Light Comm,2001-01-01,13,13177,final
+Stanly,,NC,232,City of Albemarle,2001-01-01,37,37167,final
+Camden,,NC,240,Albemarle Electric Member Corp,2001-01-01,37,37029,final
+Chowan,,NC,240,Albemarle Electric Member Corp,2001-01-01,37,37041,final
+Currituck,,NC,240,Albemarle Electric Member Corp,2001-01-01,37,37053,final
+Pasquotank,,NC,240,Albemarle Electric Member Corp,2001-01-01,37,37139,final
+Perquimans,,NC,240,Albemarle Electric Member Corp,2001-01-01,37,37143,final
+Marshall,,AL,241,Albertville Municipal Utils Bd,2001-01-01,1,1095,final
+Cassia,,ID,244,City of Albion,2001-01-01,16,16031,final
+Custer County,,ID,244,City of Albion,2001-01-01,16,16037,final
+Jackson,,MN,266,City of Alpha,2001-01-01,27,27063,final
+Alcorn,,MS,276,Alcorn County Elec Power Assn,2001-01-01,28,28003,final
+Hancock,,OH,282,Village of Arcadia,2001-01-01,39,39063,final
+Pierce,,WA,287,"Alder Mutual Light Co, Inc",2001-01-01,53,53053,final
+Tallapoosa,,AL,289,City of Alexander City,2001-01-01,1,1123,final
+Douglas,,MN,295,City of Alexandria,2001-01-01,27,27041,final
+Barber,,KS,296,"Alfalfa Electric Coop, Inc",2001-01-01,20,20007,final
+Harper,,KS,296,"Alfalfa Electric Coop, Inc",2001-01-01,20,20077,final
+Alfalfa,,OK,296,"Alfalfa Electric Coop, Inc",2001-01-01,40,40003,final
+Garfield,,OK,296,"Alfalfa Electric Coop, Inc",2001-01-01,40,40047,final
+Grant,,OK,296,"Alfalfa Electric Coop, Inc",2001-01-01,40,40053,final
+Major,,OK,296,"Alfalfa Electric Coop, Inc",2001-01-01,40,40093,final
+Woods,,OK,296,"Alfalfa Electric Coop, Inc",2001-01-01,40,40151,final
+Rapides,,LA,298,City of Alexandria,2001-01-01,22,22079,final
+Alger,,MI,305,Alger-Delta Coop Electric Assn,2001-01-01,26,26003,final
+Delta,,MI,305,Alger-Delta Coop Electric Assn,2001-01-01,26,26041,final
+Dickinson,,MI,305,Alger-Delta Coop Electric Assn,2001-01-01,26,26043,final
+Marquette,,MI,305,Alger-Delta Coop Electric Assn,2001-01-01,26,26103,final
+Menominee,,MI,305,Alger-Delta Coop Electric Assn,2001-01-01,26,26109,final
+Schoolcraft,,MI,305,Alger-Delta Coop Electric Assn,2001-01-01,26,26153,final
+Kewaunee,,WI,307,Algoma Utility Commission,2001-01-01,55,55061,final
+Bartow,,GA,308,City of Acworth,2001-01-01,13,13015,final
+Cobb,,GA,308,City of Acworth,2001-01-01,13,13067,final
+Kossuth,,IA,309,City of Algona,2001-01-01,19,19109,final
+Allamakee,,IA,329,"Allamakee-Clayton El Coop, Inc",2001-01-01,19,19005,final
+Bremer,,IA,329,"Allamakee-Clayton El Coop, Inc",2001-01-01,19,19017,final
+Chickasaw,,IA,329,"Allamakee-Clayton El Coop, Inc",2001-01-01,19,19037,final
+Clayton,,IA,329,"Allamakee-Clayton El Coop, Inc",2001-01-01,19,19043,final
+Delaware,,IA,329,"Allamakee-Clayton El Coop, Inc",2001-01-01,19,19055,final
+Dubuque,,IA,329,"Allamakee-Clayton El Coop, Inc",2001-01-01,19,19061,final
+Fayette,,IA,329,"Allamakee-Clayton El Coop, Inc",2001-01-01,19,19065,final
+Winneshiek,,IA,329,"Allamakee-Clayton El Coop, Inc",2001-01-01,19,19191,final
+Wabash,,IL,366,City of Allendale,2001-01-01,17,17185,final
+Box Butte,,NE,367,City of Alliance,2001-01-01,31,31013,final
+Wabaunsee,,KS,385,City of Alma,2001-01-01,20,20197,final
+Alcona,,MI,392,Alpena Power Co,2001-01-01,26,26001,final
+Alpena,,MI,392,Alpena Power Co,2001-01-01,26,26007,final
+Montmorency,,MI,392,Alpena Power Co,2001-01-01,26,26119,final
+Presque Isle,,MI,392,Alpena Power Co,2001-01-01,26,26141,final
+Buena Vista,,IA,405,City of Alta,2001-01-01,19,19021,final
+Effingham,,IL,406,City of Altamont,2001-01-01,17,17049,final
+Emanuel,,GA,407,Altamaha Electric Member Corp,2001-01-01,13,13107,final
+Johnson,,GA,407,Altamaha Electric Member Corp,2001-01-01,13,13167,final
+Laurens,,GA,407,Altamaha Electric Member Corp,2001-01-01,13,13175,final
+Montgomery,,GA,407,Altamaha Electric Member Corp,2001-01-01,13,13209,final
+Tattnall,,GA,407,Altamaha Electric Member Corp,2001-01-01,13,13267,final
+Toombs,,GA,407,Altamaha Electric Member Corp,2001-01-01,13,13279,final
+Treutlen,,GA,407,Altamaha Electric Member Corp,2001-01-01,13,13283,final
+Labette,,KS,408,City of Altamont,2001-01-01,20,20099,final
+North Slope,,AK,409,"Arctic Utilities, Inc",2001-01-01,2,2185,final
+Jackson,,OK,416,City of Altus,2001-01-01,40,40065,final
+Chickasaw,,IA,432,City of Alta Vista,2001-01-01,19,19037,final
+Iowa,,IA,471,Amana Society Service Co,2001-01-01,19,19095,final
+Marshall,,MN,482,City of Alvarado,2001-01-01,27,27089,final
+Story,,IA,554,City of Ames,2001-01-01,19,19169,final
+Lorain,,OH,560,City of Amherst,2001-01-01,39,39093,final
+Bartow,,GA,562,Amicalola Electric Member Corp,2001-01-01,13,13015,final
+Cherokee,,GA,562,Amicalola Electric Member Corp,2001-01-01,13,13057,final
+Dawson,,GA,562,Amicalola Electric Member Corp,2001-01-01,13,13085,final
+Fannin,,GA,562,Amicalola Electric Member Corp,2001-01-01,13,13111,final
+Forsyth,,GA,562,Amicalola Electric Member Corp,2001-01-01,13,13117,final
+Gilmer,,GA,562,Amicalola Electric Member Corp,2001-01-01,13,13123,final
+Gordon,,GA,562,Amicalola Electric Member Corp,2001-01-01,13,13129,final
+Lumpkin,,GA,562,Amicalola Electric Member Corp,2001-01-01,13,13187,final
+Murray,,GA,562,Amicalola Electric Member Corp,2001-01-01,13,13213,final
+Pickens,,GA,562,Amicalola Electric Member Corp,2001-01-01,13,13227,final
+Monroe,,MS,571,City of Amory,2001-01-01,28,28095,final
+Blount,,TN,577,City of Alcoa Utilities,2001-01-01,47,47009,final
+Caddo,,OK,588,Anadarko Public Works Auth,2001-01-01,40,40015,final
+Orange,,CA,590,City of Anaheim,2001-01-01,6,6059,final
+Anchorage,,AK,599,Anchorage Municipality of,2001-01-01,2,2020,final
+Covington,,AL,604,City of Andalusia,2001-01-01,1,1039,final
+Madison,,IN,636,City of Anderson,2001-01-01,18,18095,final
+Aleutians West Census Area,,AK,653,Andreanof Electric Corp,2001-01-01,2,2016,final
+Allegany,,NY,661,Village of Andover,2001-01-01,36,36003,final
+Allegany,,NY,669,Village of Angelica,2001-01-01,36,36003,final
+Cass,,IA,682,City of Anita,2001-01-01,19,19029,final
+Anoka,,MN,689,Anoka Electric Coop,2001-01-01,27,27003,final
+Chisago,,MN,689,Anoka Electric Coop,2001-01-01,27,27025,final
+Hennepin,,MN,689,Anoka Electric Coop,2001-01-01,27,27053,final
+Isanti,,MN,689,Anoka Electric Coop,2001-01-01,27,27059,final
+Ramsey,,MN,689,Anoka Electric Coop,2001-01-01,27,27123,final
+Sherburne,,MN,689,Anoka Electric Coop,2001-01-01,27,27141,final
+Washington,,MN,689,Anoka Electric Coop,2001-01-01,27,27163,final
+Nelson,,KY,690,City of Bardstown,2001-01-01,21,21179,final
+Anoka,,MN,691,City of Anoka,2001-01-01,27,27003,final
+Hennepin,,MN,691,City of Anoka,2001-01-01,27,27053,final
+Riverside,,CA,694,"Anza Electric Cooperative, Inc",2001-01-01,6,6065,final
+Custer,,NE,695,City of Ansley,2001-01-01,31,31041,final
+Woodbury,,IA,700,City of Anthon,2001-01-01,19,19193,final
+Harper,,KS,701,City of Anthony,2001-01-01,20,20077,final
+Wake,,NC,719,Town of Apex,2001-01-01,37,37183,final
+Butler,,IA,723,City of Aplington,2001-01-01,19,19023,final
+Grainger,,TN,727,Appalachian Electric Coop,2001-01-01,47,47057,final
+Hamblen,,TN,727,Appalachian Electric Coop,2001-01-01,47,47063,final
+Jefferson,,TN,727,Appalachian Electric Coop,2001-01-01,47,47089,final
+Sevier,,TN,727,Appalachian Electric Coop,2001-01-01,47,47155,final
+Johnson,,TN,733,Appalachian Power Co,2001-01-01,47,47091,final
+Sullivan,,TN,733,Appalachian Power Co,2001-01-01,47,47163,final
+Albemarle,,VA,733,Appalachian Power Co,2001-01-01,51,51003,final
+Amherst,,VA,733,Appalachian Power Co,2001-01-01,51,51009,final
+Appomattox,,VA,733,Appalachian Power Co,2001-01-01,51,51011,final
+Bland,,VA,733,Appalachian Power Co,2001-01-01,51,51021,final
+Botetourt,,VA,733,Appalachian Power Co,2001-01-01,51,51023,final
+Buchanan,,VA,733,Appalachian Power Co,2001-01-01,51,51027,final
+Buckingham,,VA,733,Appalachian Power Co,2001-01-01,51,51029,final
+Campbell,,VA,733,Appalachian Power Co,2001-01-01,51,51031,final
+Carroll,,VA,733,Appalachian Power Co,2001-01-01,51,51035,final
+Craig,,VA,733,Appalachian Power Co,2001-01-01,51,51045,final
+Dickenson,,VA,733,Appalachian Power Co,2001-01-01,51,51051,final
+Floyd,,VA,733,Appalachian Power Co,2001-01-01,51,51063,final
+Fluvanna,,VA,733,Appalachian Power Co,2001-01-01,51,51065,final
+Giles,,VA,733,Appalachian Power Co,2001-01-01,51,51071,final
+Grayson,,VA,733,Appalachian Power Co,2001-01-01,51,51077,final
+Henry,,VA,733,Appalachian Power Co,2001-01-01,51,51089,final
+Montgomery,,VA,733,Appalachian Power Co,2001-01-01,51,51121,final
+Nelson,,VA,733,Appalachian Power Co,2001-01-01,51,51125,final
+Patrick,,VA,733,Appalachian Power Co,2001-01-01,51,51141,final
+Pittsylvania,,VA,733,Appalachian Power Co,2001-01-01,51,51143,final
+Pulaski,,VA,733,Appalachian Power Co,2001-01-01,51,51155,final
+Russell,,VA,733,Appalachian Power Co,2001-01-01,51,51167,final
+Scott,,VA,733,Appalachian Power Co,2001-01-01,51,51169,final
+Smyth,,VA,733,Appalachian Power Co,2001-01-01,51,51173,final
+Tazewell,,VA,733,Appalachian Power Co,2001-01-01,51,51185,final
+Washington,,VA,733,Appalachian Power Co,2001-01-01,51,51191,final
+Wise,,VA,733,Appalachian Power Co,2001-01-01,51,51195,final
+Wythe,,VA,733,Appalachian Power Co,2001-01-01,51,51197,final
+Bedford,,VA,733,Appalachian Power Co,2001-01-01,51,51515,final
+Franklin,,VA,733,Appalachian Power Co,2001-01-01,51,51620,final
+Roanoke,,VA,733,Appalachian Power Co,2001-01-01,51,51770,final
+Boone,,WV,733,Appalachian Power Co,2001-01-01,54,54005,final
+Cabell,,WV,733,Appalachian Power Co,2001-01-01,54,54011,final
+Clay,,WV,733,Appalachian Power Co,2001-01-01,54,54015,final
+Fayette,,WV,733,Appalachian Power Co,2001-01-01,54,54019,final
+Greenbrier,,WV,733,Appalachian Power Co,2001-01-01,54,54025,final
+Jackson,,WV,733,Appalachian Power Co,2001-01-01,54,54035,final
+Kanawha,,WV,733,Appalachian Power Co,2001-01-01,54,54039,final
+Lincoln,,WV,733,Appalachian Power Co,2001-01-01,54,54043,final
+Logan,,WV,733,Appalachian Power Co,2001-01-01,54,54045,final
+McDowell,,WV,733,Appalachian Power Co,2001-01-01,54,54047,final
+Mason,,WV,733,Appalachian Power Co,2001-01-01,54,54053,final
+Mercer,,WV,733,Appalachian Power Co,2001-01-01,54,54055,final
+Mingo,,WV,733,Appalachian Power Co,2001-01-01,54,54059,final
+Monroe,,WV,733,Appalachian Power Co,2001-01-01,54,54063,final
+Nicholas,,WV,733,Appalachian Power Co,2001-01-01,54,54067,final
+Putnam,,WV,733,Appalachian Power Co,2001-01-01,54,54079,final
+Raleigh,,WV,733,Appalachian Power Co,2001-01-01,54,54081,final
+Roane,,WV,733,Appalachian Power Co,2001-01-01,54,54087,final
+Summers,,WV,733,Appalachian Power Co,2001-01-01,54,54089,final
+Wayne,,WV,733,Appalachian Power Co,2001-01-01,54,54099,final
+Wyoming,,WV,733,Appalachian Power Co,2001-01-01,54,54109,final
+Maricopa,,AZ,737,Aguila Irrigation District,2001-01-01,4,4013,final
+Cullman,,AL,750,"Arab Electric Cooperative, Inc",2001-01-01,1,1043,final
+Marshall,,AL,750,"Arab Electric Cooperative, Inc",2001-01-01,1,1095,final
+Furnas,,NE,752,City of Arapahoe,2001-01-01,31,31065,final
+Crawford,,KS,764,City of Arcadia,2001-01-01,20,20037,final
+Trempealeau,,WI,765,City of Arcadia,2001-01-01,55,55121,final
+Darke,,OH,768,City of Arcanum,2001-01-01,39,39037,final
+Marshall,,IN,789,Town of Argos,2001-01-01,18,18099,final
+Lafayette,,WI,792,City of Argyle,2001-01-01,55,55065,final
+Apache,,AZ,803,Arizona Public Service Co,2001-01-01,4,4001,final
+Cochise,,AZ,803,Arizona Public Service Co,2001-01-01,4,4003,final
+Coconino,,AZ,803,Arizona Public Service Co,2001-01-01,4,4005,final
+Gila,,AZ,803,Arizona Public Service Co,2001-01-01,4,4007,final
+Graham,,AZ,803,Arizona Public Service Co,2001-01-01,4,4009,final
+Greenlee,,AZ,803,Arizona Public Service Co,2001-01-01,4,4011,final
+Maricopa,,AZ,803,Arizona Public Service Co,2001-01-01,4,4013,final
+Mohave,,AZ,803,Arizona Public Service Co,2001-01-01,4,4015,final
+Navajo,,AZ,803,Arizona Public Service Co,2001-01-01,4,4017,final
+Pima,,AZ,803,Arizona Public Service Co,2001-01-01,4,4019,final
+Pinal,,AZ,803,Arizona Public Service Co,2001-01-01,4,4021,final
+Santa Cruz,,AZ,803,Arizona Public Service Co,2001-01-01,4,4023,final
+Yavapai,,AZ,803,Arizona Public Service Co,2001-01-01,4,4025,final
+Yuma,,AZ,803,Arizona Public Service Co,2001-01-01,4,4027,final
+Arkansas,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5001,final
+Ashley,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5003,final
+Baxter,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5005,final
+Boone,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5009,final
+Bradley,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5011,final
+Calhoun,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5013,final
+Carroll,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5015,final
+Chicot,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5017,final
+Clark,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5019,final
+Clay,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5021,final
+Cleburne,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5023,final
+Cleveland,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5025,final
+Columbia,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5027,final
+Conway,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5029,final
+Craighead,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5031,final
+Crittenden,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5035,final
+Cross,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5037,final
+Dallas,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5039,final
+Desha,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5041,final
+Drew,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5043,final
+Faulkner,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5045,final
+Fulton,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5049,final
+Garland,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5051,final
+Grant,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5053,final
+Greene,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5055,final
+Hempstead,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5057,final
+Hot Spring County,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5059,final
+Independence,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5063,final
+Izard,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5065,final
+Jackson,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5067,final
+Jefferson,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5069,final
+Lafayette,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5073,final
+Lawrence,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5075,final
+Lee,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5077,final
+Lincoln,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5079,final
+Lonoke,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5085,final
+Marion,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5089,final
+Mississippi,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5093,final
+Monroe,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5095,final
+Montgomery,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5097,final
+Nevada,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5099,final
+Newton,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5101,final
+Ouachita,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5103,final
+Perry,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5105,final
+Phillips,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5107,final
+Pike,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5109,final
+Poinsett,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5111,final
+Pope,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5115,final
+Prairie,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5117,final
+Pulaski,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5119,final
+Randolph,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5121,final
+St. Francis,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5123,final
+Saline,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5125,final
+Searcy,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5129,final
+Sharp,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5135,final
+Stone,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5137,final
+Union,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5139,final
+Van Buren,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5141,final
+White,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5145,final
+Woodruff,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5147,final
+Yell,,AR,814,Entergy Arkansas Inc,2001-01-01,5,5149,final
+Lauderdale,,TN,814,Entergy Arkansas Inc,2001-01-01,47,47097,final
+Shelby,,TN,814,Entergy Arkansas Inc,2001-01-01,47,47157,final
+Tipton,,TN,814,Entergy Arkansas Inc,2001-01-01,47,47167,final
+Crawford,,AR,817,Arkansas Valley Elec Coop Corp,2001-01-01,5,5033,final
+Franklin,,AR,817,Arkansas Valley Elec Coop Corp,2001-01-01,5,5047,final
+Johnson,,AR,817,Arkansas Valley Elec Coop Corp,2001-01-01,5,5071,final
+Logan,,AR,817,Arkansas Valley Elec Coop Corp,2001-01-01,5,5083,final
+Madison,,AR,817,Arkansas Valley Elec Coop Corp,2001-01-01,5,5087,final
+Newton,,AR,817,Arkansas Valley Elec Coop Corp,2001-01-01,5,5101,final
+Pope,,AR,817,Arkansas Valley Elec Coop Corp,2001-01-01,5,5115,final
+Scott,,AR,817,Arkansas Valley Elec Coop Corp,2001-01-01,5,5127,final
+Sebastian,,AR,817,Arkansas Valley Elec Coop Corp,2001-01-01,5,5131,final
+Yell,,AR,817,Arkansas Valley Elec Coop Corp,2001-01-01,5,5149,final
+Adair,,OK,817,Arkansas Valley Elec Coop Corp,2001-01-01,40,40001,final
+Le Flore,,OK,817,Arkansas Valley Elec Coop Corp,2001-01-01,40,40079,final
+Sequoyah,,OK,817,Arkansas Valley Elec Coop Corp,2001-01-01,40,40135,final
+Sibley,,MN,828,City of Arlington,2001-01-01,27,27143,final
+Brookings,,SD,831,City of Arlington,2001-01-01,46,46011,final
+Kingsbury,,SD,831,City of Arlington,2001-01-01,46,46077,final
+Crawford,,KS,832,City of Arma,2001-01-01,20,20037,final
+Custer,,NE,871,Village of Arnold,2001-01-01,31,31041,final
+Bethel,,AK,878,Atmautluak Tribal Utilities,2001-01-01,2,2050,final
+Cook,,MN,887,"Arrowhead Electric Coop, Inc",2001-01-01,27,27031,final
+Lake,,MN,887,"Arrowhead Electric Coop, Inc",2001-01-01,27,27075,final
+Worcester,,MA,902,Town of Ashburnham,2001-01-01,25,25027,final
+Grafton,,NH,906,Town of Ashland,2001-01-01,33,33009,final
+Jackson,,OR,907,City of Ashland,2001-01-01,41,41029,final
+Clark,,KS,911,City of Ashland,2001-01-01,20,20025,final
+Pitkin,,CO,918,City of Aspen,2001-01-01,8,8097,final
+Ashley,,AR,925,"Ashley Chicot Elec Coop, Inc",2001-01-01,5,5003,final
+Chicot,,AR,925,"Ashley Chicot Elec Coop, Inc",2001-01-01,5,5017,final
+Drew,,AR,925,"Ashley Chicot Elec Coop, Inc",2001-01-01,5,5043,final
+Morehouse Parish,,LA,925,"Ashley Chicot Elec Coop, Inc",2001-01-01,22,22067,final
+Fremont,,IA,942,Atchison-Holt Electric Coop,2001-01-01,19,19071,final
+Page,,IA,942,Atchison-Holt Electric Coop,2001-01-01,19,19145,final
+Atchison,,MO,942,Atchison-Holt Electric Coop,2001-01-01,29,29005,final
+Holt,,MO,942,Atchison-Holt Electric Coop,2001-01-01,29,29087,final
+Nodaway,,MO,942,Atchison-Holt Electric Coop,2001-01-01,29,29147,final
+Nemaha,,NE,942,Atchison-Holt Electric Coop,2001-01-01,31,31127,final
+Limestone,,AL,944,City of Athens,2001-01-01,1,1083,final
+McMinn,,TN,947,Athens Utility Board,2001-01-01,47,47107,final
+Atlantic,,NJ,963,Atlantic City Electric Co,2001-01-01,34,34001,final
+Burlington,,NJ,963,Atlantic City Electric Co,2001-01-01,34,34005,final
+Camden,,NJ,963,Atlantic City Electric Co,2001-01-01,34,34007,final
+Cape May,,NJ,963,Atlantic City Electric Co,2001-01-01,34,34009,final
+Cumberland,,NJ,963,Atlantic City Electric Co,2001-01-01,34,34011,final
+Gloucester,,NJ,963,Atlantic City Electric Co,2001-01-01,34,34015,final
+Ocean,,NJ,963,Atlantic City Electric Co,2001-01-01,34,34029,final
+Salem,,NJ,963,Atlantic City Electric Co,2001-01-01,34,34033,final
+Audubon,,IA,965,Atlantic Municipal Utilities,2001-01-01,19,19009,final
+Cass,,IA,965,Atlantic Municipal Utilities,2001-01-01,19,19029,final
+Pottawattamie,,IA,965,Atlantic Municipal Utilities,2001-01-01,19,19155,final
+Shelby,,IA,965,Atlantic Municipal Utilities,2001-01-01,19,19165,final
+Elmore,,ID,967,Atlanta Power Co Inc,2001-01-01,16,16039,final
+Gooding,,ID,967,Atlanta Power Co Inc,2001-01-01,16,16047,final
+Harper,,KS,989,City of Attica,2001-01-01,20,20077,final
+Johnson,,NE,993,Auburn Board of Public Works,2001-01-01,31,31097,final
+Nemaha,,NE,993,Auburn Board of Public Works,2001-01-01,31,31127,final
+Richardson,,NE,993,Auburn Board of Public Works,2001-01-01,31,31147,final
+DeKalb County,,IN,994,City of Auburn,2001-01-01,18,18033,final
+Sac,,IA,995,City of Auburn,2001-01-01,19,19161,final
+Butler,,KS,998,City of Augusta,2001-01-01,20,20015,final
+Woodruff,,AR,1000,City of Augusta,2001-01-01,5,5147,final
+Cherokee,,IA,1002,City of Aurelia,2001-01-01,19,19035,final
+Brookings,,SD,1004,City of Aurora,2001-01-01,46,46011,final
+Mower,,MN,1009,City of Austin,2001-01-01,27,27099,final
+Travis,,TX,1015,Austin Energy,2001-01-01,48,48453,final
+Williamson,,TX,1015,Austin Energy,2001-01-01,48,48491,final
+Douglas,,MO,1024,City of Ava,2001-01-01,29,29067,final
+Lafayette,,MO,1024,City of Ava,2001-01-01,29,29107,final
+Noble,,IN,1028,Town of Avilla,2001-01-01,18,18113,final
+Marshall,,KS,1033,City of Axtell,2001-01-01,20,20117,final
+Pitt,,NC,1036,Town of Ayden,2001-01-01,37,37147,final
+San Juan,,NM,1046,City of Aztec Electric Utility System,2001-01-01,35,35045,final
+Los Angeles,,CA,1050,City of Azusa,2001-01-01,6,6037,final
+Alleghany,,VA,1062,"BARC Electric Cooperative, Inc",2001-01-01,51,51005,final
+Augusta,,VA,1062,"BARC Electric Cooperative, Inc",2001-01-01,51,51015,final
+Bath,,VA,1062,"BARC Electric Cooperative, Inc",2001-01-01,51,51017,final
+Highland,,VA,1062,"BARC Electric Cooperative, Inc",2001-01-01,51,51091,final
+Rockbridge,,VA,1062,"BARC Electric Cooperative, Inc",2001-01-01,51,51163,final
+Kingsbury,,SD,1080,City of Badger,2001-01-01,46,46077,final
+Clearwater,,MN,1101,Bagley Public Utilities Comm,2001-01-01,27,27029,final
+Putnam,,IN,1119,Town of Bainbridge,2001-01-01,18,18133,final
+Douglas,,KS,1148,City of Baldwin City,2001-01-01,20,20045,final
+Baldwin,,AL,1149,Baldwin County El Member Corp,2001-01-01,1,1003,final
+Monroe,,AL,1149,Baldwin County El Member Corp,2001-01-01,1,1099,final
+Anne Arundel,,MD,1167,Baltimore Gas & Electric Co,2001-01-01,24,24003,final
+Calvert,,MD,1167,Baltimore Gas & Electric Co,2001-01-01,24,24009,final
+Carroll,,MD,1167,Baltimore Gas & Electric Co,2001-01-01,24,24013,final
+Cecil,,MD,1167,Baltimore Gas & Electric Co,2001-01-01,24,24015,final
+Harford,,MD,1167,Baltimore Gas & Electric Co,2001-01-01,24,24025,final
+Howard,,MD,1167,Baltimore Gas & Electric Co,2001-01-01,24,24027,final
+Montgomery,,MD,1167,Baltimore Gas & Electric Co,2001-01-01,24,24031,final
+Prince George's County,,MD,1167,Baltimore Gas & Electric Co,2001-01-01,24,24033,final
+Baltimore,,MD,1167,Baltimore Gas & Electric Co,2001-01-01,24,24510,final
+Bailey,,TX,1169,Bailey County Elec Coop Assn,2001-01-01,48,48017,final
+Castro,,TX,1169,Bailey County Elec Coop Assn,2001-01-01,48,48069,final
+Cochran,,TX,1169,Bailey County Elec Coop Assn,2001-01-01,48,48079,final
+Lamb,,TX,1169,Bailey County Elec Coop Assn,2001-01-01,48,48279,final
+Parmer,,TX,1169,Bailey County Elec Coop Assn,2001-01-01,48,48369,final
+Bamberg,,SC,1170,Bamberg Board of Public Works,2001-01-01,45,45009,final
+Kossuth,,IA,1172,Bancroft Municipal Utilities,2001-01-01,19,19109,final
+Bandera,,TX,1175,"Bandera Electric Coop, Inc",2001-01-01,48,48019,final
+Bexar,,TX,1175,"Bandera Electric Coop, Inc",2001-01-01,48,48029,final
+Kendall,,TX,1175,"Bandera Electric Coop, Inc",2001-01-01,48,48259,final
+Kerr,,TX,1175,"Bandera Electric Coop, Inc",2001-01-01,48,48265,final
+Medina,,TX,1175,"Bandera Electric Coop, Inc",2001-01-01,48,48325,final
+Real,,TX,1175,"Bandera Electric Coop, Inc",2001-01-01,48,48385,final
+Uvalde,,TX,1175,"Bandera Electric Coop, Inc",2001-01-01,48,48463,final
+Coos,,OR,1176,City of Bandon,2001-01-01,41,41011,final
+Curry,,OR,1176,City of Bandon,2001-01-01,41,41015,final
+Aroostook,,ME,1179,Bangor Hydro-Electric Co,2001-01-01,23,23003,final
+Hancock,,ME,1179,Bangor Hydro-Electric Co,2001-01-01,23,23009,final
+Penobscot,,ME,1179,Bangor Hydro-Electric Co,2001-01-01,23,23019,final
+Piscataquis,,ME,1179,Bangor Hydro-Electric Co,2001-01-01,23,23021,final
+Waldo,,ME,1179,Bangor Hydro-Electric Co,2001-01-01,23,23027,final
+Washington,,ME,1179,Bangor Hydro-Electric Co,2001-01-01,23,23029,final
+La Crosse,,WI,1181,City of Bangor,2001-01-01,55,55063,final
+Riverside,,CA,1192,City of Banning,2001-01-01,6,6065,final
+Baraga,,MI,1196,Village of Baraga,2001-01-01,26,26013,final
+Knox,,KY,1201,Barbourville Utility Comission,2001-01-01,21,21121,final
+Carlisle,,KY,1205,City of Bardwell,2001-01-01,21,21039,final
+Johnson,,IN,1208,Town of Bargersville,2001-01-01,18,18081,final
+Lamar,,GA,1232,City of Barnesville,2001-01-01,13,13171,final
+Clay,,MN,1233,City of Barnesville,2001-01-01,27,27027,final
+Barron,,WI,1251,Barron Electric Cooperative,2001-01-01,55,55005,final
+Burnett,,WI,1251,Barron Electric Cooperative,2001-01-01,55,55013,final
+Chippewa,,WI,1251,Barron Electric Cooperative,2001-01-01,55,55017,final
+Dunn,,WI,1251,Barron Electric Cooperative,2001-01-01,55,55033,final
+Polk,,WI,1251,Barron Electric Cooperative,2001-01-01,55,55095,final
+Rusk,,WI,1251,Barron Electric Cooperative,2001-01-01,55,55107,final
+Sawyer,,WI,1251,Barron Electric Cooperative,2001-01-01,55,55113,final
+Washburn,,WI,1251,Barron Electric Cooperative,2001-01-01,55,55129,final
+Bell,,TX,1273,"Bartlett Electric Coop, Inc",2001-01-01,48,48027,final
+Burleson,,TX,1273,"Bartlett Electric Coop, Inc",2001-01-01,48,48051,final
+Milam,,TX,1273,"Bartlett Electric Coop, Inc",2001-01-01,48,48331,final
+Williamson,,TX,1273,"Bartlett Electric Coop, Inc",2001-01-01,48,48491,final
+North Slope,,AK,1276,"Barrow Utils & Elec Coop, Inc",2001-01-01,2,2185,final
+Barron,,WI,1278,City of Barron,2001-01-01,55,55005,final
+Barry,,MO,1279,Barry Electric Cooperative,2001-01-01,29,29009,final
+McDonald,,MO,1279,Barry Electric Cooperative,2001-01-01,29,29119,final
+Bartholomew,,IN,1283,Bartholomew County Rural E M C,2001-01-01,18,18005,final
+Decatur,,IN,1283,Bartholomew County Rural E M C,2001-01-01,18,18031,final
+Jackson,,IN,1283,Bartholomew County Rural E M C,2001-01-01,18,18071,final
+Jennings,,IN,1283,Bartholomew County Rural E M C,2001-01-01,18,18079,final
+Bell,,TX,1287,City of Bartlett,2001-01-01,48,48027,final
+Williamson,,TX,1287,City of Bartlett,2001-01-01,48,48491,final
+Orleans,,VT,1299,"Barton Village, Inc",2001-01-01,50,50019,final
+Polk,,FL,1300,City of Bartow,2001-01-01,12,12105,final
+Barton,,MO,1301,"Barton County Elec Coop, Inc",2001-01-01,29,29011,final
+Cedar,,MO,1301,"Barton County Elec Coop, Inc",2001-01-01,29,29039,final
+Dade,,MO,1301,"Barton County Elec Coop, Inc",2001-01-01,29,29057,final
+Jasper,,MO,1301,"Barton County Elec Coop, Inc",2001-01-01,29,29097,final
+Vernon,,MO,1301,"Barton County Elec Coop, Inc",2001-01-01,29,29217,final
+Bastrop,,TX,1324,City of Bastrop,2001-01-01,48,48021,final
+Kane,,IL,1325,City of Batavia,2001-01-01,17,17089,final
+Red Willow,,NE,1326,Village of Bartley,2001-01-01,31,31145,final
+Steuben,,NY,1343,Bath Electric Gas & Water Sys,2001-01-01,36,36101,final
+Madison,,NE,1346,City of Battle Creek,2001-01-01,31,31119,final
+Lake of the Woods,,MN,1353,City of Baudette,2001-01-01,27,27077,final
+Bay,,MI,1366,City of Bay City,2001-01-01,26,26017,final
+Gogebic,,MI,1367,"Bayfield Electric Coop, Inc",2001-01-01,26,26053,final
+Ashland,,WI,1367,"Bayfield Electric Coop, Inc",2001-01-01,55,55003,final
+Bayfield,,WI,1367,"Bayfield Electric Coop, Inc",2001-01-01,55,55007,final
+Douglas,,WI,1367,"Bayfield Electric Coop, Inc",2001-01-01,55,55031,final
+Iron,,WI,1367,"Bayfield Electric Coop, Inc",2001-01-01,55,55051,final
+Sawyer,,WI,1367,"Bayfield Electric Coop, Inc",2001-01-01,55,55113,final
+Vilas,,WI,1367,"Bayfield Electric Coop, Inc",2001-01-01,55,55125,final
+Morrill,,NE,1374,City of Bayard,2001-01-01,31,31123,final
+Stark,,OH,1386,Village of Beach City,2001-01-01,39,39151,final
+Tuscarawas,,OH,1386,Village of Beach City,2001-01-01,39,39157,final
+Harlan,,KY,1387,City of Benham,2001-01-01,21,21095,final
+Carbon,,MT,1417,"Beartooth Electric Coop, Inc",2001-01-01,30,30009,final
+Stillwater,,MT,1417,"Beartooth Electric Coop, Inc",2001-01-01,30,30095,final
+Sweet Grass,,MT,1417,"Beartooth Electric Coop, Inc",2001-01-01,30,30097,final
+Park,,WY,1417,"Beartooth Electric Coop, Inc",2001-01-01,56,56029,final
+Gage,,NE,1427,Beatrice Board of Public Works,2001-01-01,31,31067,final
+Beaver,,UT,1434,Beaver City Corporation,2001-01-01,49,49001,final
+Furnas,,NE,1435,City of Beaver City,2001-01-01,31,31065,final
+Bedford,,VA,1456,City of Bedford,2001-01-01,51,51515,final
+Allen,,LA,1458,"Beauregard Electric Coop, Inc",2001-01-01,22,22003,final
+Beauregard,,LA,1458,"Beauregard Electric Coop, Inc",2001-01-01,22,22011,final
+Calcasieu,,LA,1458,"Beauregard Electric Coop, Inc",2001-01-01,22,22019,final
+Evangeline,,LA,1458,"Beauregard Electric Coop, Inc",2001-01-01,22,22039,final
+Jefferson Davis,,LA,1458,"Beauregard Electric Coop, Inc",2001-01-01,22,22053,final
+Rapides,,LA,1458,"Beauregard Electric Coop, Inc",2001-01-01,22,22079,final
+Vernon,,LA,1458,"Beauregard Electric Coop, Inc",2001-01-01,22,22115,final
+Beaufort,,NC,1494,Town of Belhaven,2001-01-01,37,37013,final
+Republic,,KS,1512,City of Belleville,2001-01-01,20,20157,final
+Bell,,TX,1513,"Belfalls Electric Coop, Inc",2001-01-01,48,48027,final
+Falls,,TX,1513,"Belfalls Electric Coop, Inc",2001-01-01,48,48145,final
+Milam,,TX,1513,"Belfalls Electric Coop, Inc",2001-01-01,48,48331,final
+Jackson,,IA,1515,City of Bellevue,2001-01-01,19,19097,final
+Austin,,TX,1519,City of Bellville,2001-01-01,48,48015,final
+Lafayette,,WI,1522,Village of Belmont,2001-01-01,55,55065,final
+Middlesex,,MA,1523,Town of Belmont,2001-01-01,25,25017,final
+Mitchell,,KS,1525,City of Beloit,2001-01-01,20,20123,final
+Beltrami,,MN,1529,"Beltrami Electric Coop, Inc",2001-01-01,27,27007,final
+Cass,,MN,1529,"Beltrami Electric Coop, Inc",2001-01-01,27,27021,final
+Clearwater,,MN,1529,"Beltrami Electric Coop, Inc",2001-01-01,27,27029,final
+Hubbard,,MN,1529,"Beltrami Electric Coop, Inc",2001-01-01,27,27057,final
+Itasca,,MN,1529,"Beltrami Electric Coop, Inc",2001-01-01,27,27061,final
+Koochiching,,MN,1529,"Beltrami Electric Coop, Inc",2001-01-01,27,27071,final
+Dundy,,NE,1554,City of Benkelman,2001-01-01,31,31057,final
+Marlboro,,SC,1566,City of Bennettsville,2001-01-01,45,45069,final
+Johnston,,NC,1571,Town of Benson,2001-01-01,37,37101,final
+Swift,,MN,1573,City of Benson,2001-01-01,27,27151,final
+Benton,,TN,1578,Benton County,2001-01-01,47,47005,final
+Benton,,WA,1579,PUD No 1 of Benton County,2001-01-01,53,53005,final
+Saline,,AR,1581,Benton Utilities,2001-01-01,5,5125,final
+Marshall,,KY,1582,City of Benton,2001-01-01,21,21157,final
+Borden,,TX,1591,"Big Country Electric Coop, Inc",2001-01-01,48,48033,final
+Fisher,,TX,1591,"Big Country Electric Coop, Inc",2001-01-01,48,48151,final
+Garza,,TX,1591,"Big Country Electric Coop, Inc",2001-01-01,48,48169,final
+Haskell,,TX,1591,"Big Country Electric Coop, Inc",2001-01-01,48,48207,final
+Jones,,TX,1591,"Big Country Electric Coop, Inc",2001-01-01,48,48253,final
+Kent,,TX,1591,"Big Country Electric Coop, Inc",2001-01-01,48,48263,final
+Mitchell,,TX,1591,"Big Country Electric Coop, Inc",2001-01-01,48,48335,final
+Nolan,,TX,1591,"Big Country Electric Coop, Inc",2001-01-01,48,48353,final
+Scurry,,TX,1591,"Big Country Electric Coop, Inc",2001-01-01,48,48415,final
+Shackelford,,TX,1591,"Big Country Electric Coop, Inc",2001-01-01,48,48417,final
+Stonewall,,TX,1591,"Big Country Electric Coop, Inc",2001-01-01,48,48433,final
+Throckmorton,,TX,1591,"Big Country Electric Coop, Inc",2001-01-01,48,48447,final
+Madison,,KY,1594,Berea College,2001-01-01,21,21151,final
+Lincoln,,SD,1601,City of Beresford,2001-01-01,46,46083,final
+Union,,SD,1601,City of Beresford,2001-01-01,46,46127,final
+Genesee,,NY,1604,Village of Bergen,2001-01-01,36,36037,final
+Berkeley,,SC,1613,Berkeley Electric Coop Inc,2001-01-01,45,45015,final
+Charleston,,SC,1613,Berkeley Electric Coop Inc,2001-01-01,45,45019,final
+Dorchester,,SC,1613,Berkeley Electric Coop Inc,2001-01-01,45,45035,final
+Worcester,,MD,1615,Town of Berlin,2001-01-01,24,24047,final
+Somerset,,PA,1618,Borough of Berlin,2001-01-01,42,42111,final
+Benton,,WA,1625,Benton Rural Electric Assn,2001-01-01,53,53005,final
+Lewis,,WA,1625,Benton Rural Electric Assn,2001-01-01,53,53041,final
+Yakima,,WA,1625,Benton Rural Electric Assn,2001-01-01,53,53077,final
+Jefferson,,AL,1640,City of Bessemer Utilities,2001-01-01,1,1073,final
+Harrison,,MO,1647,City of Bethany,2001-01-01,29,29081,final
+Moultrie,,IL,1648,Village of Bethany,2001-01-01,17,17139,final
+Clermont,,OH,1650,Village of Bethel,2001-01-01,39,39025,final
+Bethel,,AK,1651,Bethel Utilities Corp,2001-01-01,2,2050,final
+Blaine,,MT,1671,"Big Flat Electric Coop, Inc",2001-01-01,30,30005,final
+Phillips,,MT,1671,"Big Flat Electric Coop, Inc",2001-01-01,30,30071,final
+Valley,,MT,1671,"Big Flat Electric Coop, Inc",2001-01-01,30,30105,final
+Big Horn,,MT,1675,Big Horn Rural Electric Co,2001-01-01,30,30003,final
+Carbon,,MT,1675,Big Horn Rural Electric Co,2001-01-01,30,30009,final
+Big Horn,,WY,1675,Big Horn Rural Electric Co,2001-01-01,56,56003,final
+Johnson,,WY,1675,Big Horn Rural Electric Co,2001-01-01,56,56019,final
+Park,,WY,1675,Big Horn Rural Electric Co,2001-01-01,56,56029,final
+Sheridan,,WY,1675,Big Horn Rural Electric Co,2001-01-01,56,56033,final
+Washakie,,WY,1675,Big Horn Rural Electric Co,2001-01-01,56,56043,final
+Wood,,OH,1677,Village of Bloomdale,2001-01-01,39,39173,final
+Big Horn,,MT,1683,"Big Horn County Elec Coop, Inc",2001-01-01,30,30003,final
+Sheridan,,WY,1683,"Big Horn County Elec Coop, Inc",2001-01-01,56,56033,final
+Grant,,SD,1698,City of Big Stone City,2001-01-01,46,46051,final
+Butte,,CA,1702,City of Biggs,2001-01-01,6,6007,final
+Breathitt,,KY,1708,Big Sandy Rural Elec Coop Corp,2001-01-01,21,21025,final
+Floyd,,KY,1708,Big Sandy Rural Elec Coop Corp,2001-01-01,21,21071,final
+Johnson,,KY,1708,Big Sandy Rural Elec Coop Corp,2001-01-01,21,21115,final
+Knott,,KY,1708,Big Sandy Rural Elec Coop Corp,2001-01-01,21,21119,final
+Lawrence,,KY,1708,Big Sandy Rural Elec Coop Corp,2001-01-01,21,21127,final
+Magoffin,,KY,1708,Big Sandy Rural Elec Coop Corp,2001-01-01,21,21153,final
+Martin,,KY,1708,Big Sandy Rural Elec Coop Corp,2001-01-01,21,21159,final
+Morgan,,KY,1708,Big Sandy Rural Elec Coop Corp,2001-01-01,21,21175,final
+Adams,,WA,1723,"Big Bend Electric Coop, Inc",2001-01-01,53,53001,final
+Franklin,,WA,1723,"Big Bend Electric Coop, Inc",2001-01-01,53,53021,final
+Grant,,WA,1723,"Big Bend Electric Coop, Inc",2001-01-01,53,53025,final
+Lincoln,,WA,1723,"Big Bend Electric Coop, Inc",2001-01-01,53,53043,final
+Whitman,,WA,1723,"Big Bend Electric Coop, Inc",2001-01-01,53,53075,final
+Linn,,KS,1726,City of Blue Mound,2001-01-01,20,20107,final
+Lane,,OR,1736,Blachly-Lane Cnty Coop El Assn,2001-01-01,41,41039,final
+Yukon-Koyukuk,,AK,1747,Birch Creek Village Elec Util,2001-01-01,2,2290,final
+Saint Louis,,MN,1753,City of Biwabik,2001-01-01,27,27137,final
+Clarendon,,SC,1763,"Black River Electric Coop, Inc",2001-01-01,45,45027,final
+Kershaw,,SC,1763,"Black River Electric Coop, Inc",2001-01-01,45,45055,final
+Lee,,SC,1763,"Black River Electric Coop, Inc",2001-01-01,45,45061,final
+Sumter,,SC,1763,"Black River Electric Coop, Inc",2001-01-01,45,45085,final
+Clay,,WV,1764,Black Diamond Power Company,2001-01-01,54,54015,final
+Raleigh,,WV,1764,Black Diamond Power Company,2001-01-01,54,54081,final
+Dane,,WI,1765,Village of Black Earth,2001-01-01,55,55025,final
+Iowa,,WI,1765,Village of Black Earth,2001-01-01,55,55049,final
+Custer,,SD,1769,"Black Hills Electric Coop, Inc",2001-01-01,46,46033,final
+Fall River,,SD,1769,"Black Hills Electric Coop, Inc",2001-01-01,46,46047,final
+Lawrence,,SD,1769,"Black Hills Electric Coop, Inc",2001-01-01,46,46081,final
+Meade,,SD,1769,"Black Hills Electric Coop, Inc",2001-01-01,46,46093,final
+Shannon,,SD,1769,"Black Hills Electric Coop, Inc",2001-01-01,46,46102,final
+Pennington,,SD,1769,"Black Hills Electric Coop, Inc",2001-01-01,46,46103,final
+Bollinger,,MO,1775,Black River Electric Coop,2001-01-01,29,29017,final
+Cape Girardeau,,MO,1775,Black River Electric Coop,2001-01-01,29,29031,final
+Dent,,MO,1775,Black River Electric Coop,2001-01-01,29,29065,final
+Iron,,MO,1775,Black River Electric Coop,2001-01-01,29,29093,final
+Madison,,MO,1775,Black River Electric Coop,2001-01-01,29,29123,final
+Reynolds,,MO,1775,Black River Electric Coop,2001-01-01,29,29179,final
+Shannon,,MO,1775,Black River Electric Coop,2001-01-01,29,29203,final
+Wayne,,MO,1775,Black River Electric Coop,2001-01-01,29,29223,final
+Jackson,,WI,1776,City of Black River Falls,2001-01-01,55,55053,final
+Big Horn,,WY,1779,Town of Basin,2001-01-01,56,56003,final
+Choctaw,,AL,1780,Black Warrior Elec Member Corp,2001-01-01,1,1023,final
+Clarke,,AL,1780,Black Warrior Elec Member Corp,2001-01-01,1,1025,final
+Dallas,,AL,1780,Black Warrior Elec Member Corp,2001-01-01,1,1047,final
+Greene,,AL,1780,Black Warrior Elec Member Corp,2001-01-01,1,1063,final
+Hale,,AL,1780,Black Warrior Elec Member Corp,2001-01-01,1,1065,final
+Marengo,,AL,1780,Black Warrior Elec Member Corp,2001-01-01,1,1091,final
+Perry,,AL,1780,Black Warrior Elec Member Corp,2001-01-01,1,1105,final
+Pickens,,AL,1780,Black Warrior Elec Member Corp,2001-01-01,1,1107,final
+Sumter,,AL,1780,Black Warrior Elec Member Corp,2001-01-01,1,1119,final
+Tuscaloosa,,AL,1780,Black Warrior Elec Member Corp,2001-01-01,1,1125,final
+Washington,,AL,1780,Black Warrior Elec Member Corp,2001-01-01,1,1129,final
+Wilcox,,AL,1780,Black Warrior Elec Member Corp,2001-01-01,1,1131,final
+Nottoway,,VA,1795,Town of Blackstone,2001-01-01,51,51135,final
+Kay,,OK,1800,City of Blackwell,2001-01-01,40,40071,final
+Whatcom,,WA,1818,City of Blaine,2001-01-01,53,53073,final
+Lackawanna,,PA,1823,Borough of Blakely,2001-01-01,42,42069,final
+Osceola,,IA,1824,City of Bigelow,2001-01-01,19,19143,final
+Nobles,,MN,1824,City of Bigelow,2001-01-01,27,27105,final
+Early,,GA,1826,City of Blakely,2001-01-01,13,13099,final
+Clinton,,OH,1832,Village of Blanchester,2001-01-01,39,39027,final
+San Juan,,UT,1839,City of Blanding,2001-01-01,49,49037,final
+Washington,,RI,1857,Block Island Power Co,2001-01-01,44,44009,final
+Chippewa,,WI,1866,Bloomer Electric & Water Co,2001-01-01,55,55017,final
+Davis,,IA,1869,City of Bloomfield,2001-01-01,19,19051,final
+Steele,,MN,1871,City of Blooming Prairie,2001-01-01,27,27147,final
+Calhoun,,FL,1876,City of Blountstown,2001-01-01,12,12013,final
+Faribault,,MN,1883,City of Blue Earth,2001-01-01,27,27043,final
+Blue Earth,,MN,1884,Blue Earth-Nicollet-Faribault,2001-01-01,27,27013,final
+Faribault,,MN,1884,Blue Earth-Nicollet-Faribault,2001-01-01,27,27043,final
+Le Sueur,,MN,1884,Blue Earth-Nicollet-Faribault,2001-01-01,27,27079,final
+Nicollet,,MN,1884,Blue Earth-Nicollet-Faribault,2001-01-01,27,27103,final
+Sibley,,MN,1884,Blue Earth-Nicollet-Faribault,2001-01-01,27,27143,final
+Anderson,,KY,1886,Blue Grass Energy Coop Corp,2001-01-01,21,21005,final
+Fayette,,KY,1886,Blue Grass Energy Coop Corp,2001-01-01,21,21067,final
+Franklin,,KY,1886,Blue Grass Energy Coop Corp,2001-01-01,21,21073,final
+Garrard,,KY,1886,Blue Grass Energy Coop Corp,2001-01-01,21,21079,final
+Henry,,KY,1886,Blue Grass Energy Coop Corp,2001-01-01,21,21103,final
+Jackson,,KY,1886,Blue Grass Energy Coop Corp,2001-01-01,21,21109,final
+Jessamine,,KY,1886,Blue Grass Energy Coop Corp,2001-01-01,21,21113,final
+Madison,,KY,1886,Blue Grass Energy Coop Corp,2001-01-01,21,21151,final
+Mercer,,KY,1886,Blue Grass Energy Coop Corp,2001-01-01,21,21167,final
+Shelby,,KY,1886,Blue Grass Energy Coop Corp,2001-01-01,21,21211,final
+Spencer,,KY,1886,Blue Grass Energy Coop Corp,2001-01-01,21,21215,final
+Washington,,KY,1886,Blue Grass Energy Coop Corp,2001-01-01,21,21229,final
+Woodford,,KY,1886,Blue Grass Energy Coop Corp,2001-01-01,21,21239,final
+Alexander,,NC,1889,Blue Ridge Elec Member Corp,2001-01-01,37,37003,final
+Alleghany,,NC,1889,Blue Ridge Elec Member Corp,2001-01-01,37,37005,final
+Ashe,,NC,1889,Blue Ridge Elec Member Corp,2001-01-01,37,37009,final
+Avery,,NC,1889,Blue Ridge Elec Member Corp,2001-01-01,37,37011,final
+Caldwell,,NC,1889,Blue Ridge Elec Member Corp,2001-01-01,37,37027,final
+Watauga,,NC,1889,Blue Ridge Elec Member Corp,2001-01-01,37,37189,final
+Wilkes,,NC,1889,Blue Ridge Elec Member Corp,2001-01-01,37,37193,final
+Anderson,,SC,1890,"Blue Ridge Electric Coop, Inc",2001-01-01,45,45007,final
+Greenville,,SC,1890,"Blue Ridge Electric Coop, Inc",2001-01-01,45,45045,final
+Oconee,,SC,1890,"Blue Ridge Electric Coop, Inc",2001-01-01,45,45073,final
+Pickens,,SC,1890,"Blue Ridge Electric Coop, Inc",2001-01-01,45,45077,final
+Spartanburg,,SC,1890,"Blue Ridge Electric Coop, Inc",2001-01-01,45,45083,final
+Fannin,,GA,1891,Blue Ridge Mountain E M C,2001-01-01,13,13111,final
+Gilmer,,GA,1891,Blue Ridge Mountain E M C,2001-01-01,13,13123,final
+Towns,,GA,1891,Blue Ridge Mountain E M C,2001-01-01,13,13281,final
+Union,,GA,1891,Blue Ridge Mountain E M C,2001-01-01,13,13291,final
+Macon,,TN,1891,Blue Ridge Mountain E M C,2001-01-01,47,47111,final
+Austin,,TX,1892,"Bluebonnett Electric Coop, Inc",2001-01-01,48,48015,final
+Bastrop,,TX,1892,"Bluebonnett Electric Coop, Inc",2001-01-01,48,48021,final
+Burleson,,TX,1892,"Bluebonnett Electric Coop, Inc",2001-01-01,48,48051,final
+Caldwell,,TX,1892,"Bluebonnett Electric Coop, Inc",2001-01-01,48,48055,final
+Colorado,,TX,1892,"Bluebonnett Electric Coop, Inc",2001-01-01,48,48089,final
+Fayette,,TX,1892,"Bluebonnett Electric Coop, Inc",2001-01-01,48,48149,final
+Gonzales,,TX,1892,"Bluebonnett Electric Coop, Inc",2001-01-01,48,48177,final
+Guadalupe,,TX,1892,"Bluebonnett Electric Coop, Inc",2001-01-01,48,48187,final
+Hays,,TX,1892,"Bluebonnett Electric Coop, Inc",2001-01-01,48,48209,final
+Lee,,TX,1892,"Bluebonnett Electric Coop, Inc",2001-01-01,48,48287,final
+Milam,,TX,1892,"Bluebonnett Electric Coop, Inc",2001-01-01,48,48331,final
+Travis,,TX,1892,"Bluebonnett Electric Coop, Inc",2001-01-01,48,48453,final
+Washington,,TX,1892,"Bluebonnett Electric Coop, Inc",2001-01-01,48,48477,final
+Williamson,,TX,1892,"Bluebonnett Electric Coop, Inc",2001-01-01,48,48491,final
+Wells,,IN,1896,City of Bluffton,2001-01-01,18,18179,final
+Bon Homme,,SD,1898,"Bon Homme Yankton El Assn, Inc",2001-01-01,46,46009,final
+Yankton,,SD,1898,"Bon Homme Yankton El Assn, Inc",2001-01-01,46,46135,final
+Kendall,,TX,1913,City of Boerne,2001-01-01,48,48259,final
+Fayette,,TN,1936,City of Bolivar,2001-01-01,47,47047,final
+Hardeman,,TN,1936,City of Bolivar,2001-01-01,47,47069,final
+Morrill,,NE,1955,City of Bridgeport Utilities,2001-01-01,31,31123,final
+Boundary,,ID,1956,City of Bonners Ferry,2001-01-01,16,16021,final
+Hancock,,IA,1968,Boone Valley Electric Coop,2001-01-01,19,19081,final
+Humboldt,,IA,1968,Boone Valley Electric Coop,2001-01-01,19,19091,final
+Wright,,IA,1968,Boone Valley Electric Coop,2001-01-01,19,19197,final
+Lewis,,NY,1970,Village of Boonville,2001-01-01,36,36049,final
+Oneida,,NY,1970,Village of Boonville,2001-01-01,36,36065,final
+Rutherford,,NC,1987,Town of Bostic,2001-01-01,37,37161,final
+Grant,,WI,1997,City of Boscobel,2001-01-01,55,55043,final
+Essex,,MA,1998,Boston Edison Co,2001-01-01,25,25009,final
+Middlesex,,MA,1998,Boston Edison Co,2001-01-01,25,25017,final
+Norfolk,,MA,1998,Boston Edison Co,2001-01-01,25,25021,final
+Plymouth,,MA,1998,Boston Edison Co,2001-01-01,25,25023,final
+Suffolk,,MA,1998,Boston Edison Co,2001-01-01,25,25025,final
+Worcester,,MA,1998,Boston Edison Co,2001-01-01,25,25027,final
+Audrain,,MO,2001,Boone Electric Cooperative,2001-01-01,29,29007,final
+Boone,,MO,2001,Boone Electric Cooperative,2001-01-01,29,29019,final
+Callaway,,MO,2001,Boone Electric Cooperative,2001-01-01,29,29027,final
+Howard,,MO,2001,Boone Electric Cooperative,2001-01-01,29,29089,final
+Monroe,,MO,2001,Boone Electric Cooperative,2001-01-01,29,29137,final
+Randolph,,MO,2001,Boone Electric Cooperative,2001-01-01,29,29175,final
+Clark,,NV,2008,Boulder City City of,2001-01-01,32,32003,final
+Davis,,UT,2010,Bountiful City City of,2001-01-01,49,49011,final
+Bowie,,TX,2049,"Bowie-Cass Electric Coop, Inc",2001-01-01,48,48037,final
+Cass,,TX,2049,"Bowie-Cass Electric Coop, Inc",2001-01-01,48,48067,final
+Franklin,,TX,2049,"Bowie-Cass Electric Coop, Inc",2001-01-01,48,48159,final
+Morris,,TX,2049,"Bowie-Cass Electric Coop, Inc",2001-01-01,48,48343,final
+Red River,,TX,2049,"Bowie-Cass Electric Coop, Inc",2001-01-01,48,48387,final
+Titus,,TX,2049,"Bowie-Cass Electric Coop, Inc",2001-01-01,48,48449,final
+Montague,,TX,2050,City of Bowie,2001-01-01,48,48337,final
+Wood,,OH,2054,City of Bowling Green,2001-01-01,39,39173,final
+Warren,,KY,2056,City of Bowling Green,2001-01-01,21,21227,final
+Rapides,,LA,2064,Town of Boyce,2001-01-01,22,22079,final
+Worcester,,MA,2086,Town of Boylston,2001-01-01,25,25027,final
+New London,,CT,2089,Bozrah Light & Power Company,2001-01-01,9,9011,final
+Butler,,NE,2120,Village of Brainard,2001-01-01,31,31023,final
+Wood,,OH,2128,Village of Bradner,2001-01-01,39,39173,final
+McCulloch,,TX,2135,City of Brady,2001-01-01,48,48307,final
+Crow Wing,,MN,2138,Brainerd Public Utilities,2001-01-01,27,27035,final
+Norfolk,,MA,2144,Town of Braintree Electric Light Dept.,2001-01-01,25,25021,final
+Wilkin,,MN,2182,City of Breckenridge,2001-01-01,27,27167,final
+Carroll,,IA,2183,City of Breda,2001-01-01,19,19027,final
+Clinton,,IL,2188,City of Breese,2001-01-01,17,17027,final
+Marshall,,IN,2192,Bremen Electric Light&Power Co,2001-01-01,18,18099,final
+Washington,,TX,2194,City of Brenham,2001-01-01,48,48477,final
+Stark,,OH,2205,Village of Brewster,2001-01-01,39,39151,final
+Nobles,,MN,2206,City of Brewster,2001-01-01,27,27105,final
+Wise,,TX,2210,City of Bridgeport,2001-01-01,48,48497,final
+Cleveland,,NC,2212,"Broad River Electric Coop, Inc",2001-01-01,37,37045,final
+Polk,,NC,2212,"Broad River Electric Coop, Inc",2001-01-01,37,37149,final
+Rutherford,,NC,2212,"Broad River Electric Coop, Inc",2001-01-01,37,37161,final
+Cherokee,,SC,2212,"Broad River Electric Coop, Inc",2001-01-01,45,45021,final
+Newberry,,SC,2212,"Broad River Electric Coop, Inc",2001-01-01,45,45071,final
+Spartanburg,,SC,2212,"Broad River Electric Coop, Inc",2001-01-01,45,45083,final
+Union,,SC,2212,"Broad River Electric Coop, Inc",2001-01-01,45,45087,final
+Daggett,,UT,2215,"Bridger Valley Elec Assn, Inc",2001-01-01,49,49009,final
+Summit,,UT,2215,"Bridger Valley Elec Assn, Inc",2001-01-01,49,49043,final
+Lincoln,,WY,2215,"Bridger Valley Elec Assn, Inc",2001-01-01,56,56023,final
+Sweetwater,,WY,2215,"Bridger Valley Elec Assn, Inc",2001-01-01,56,56037,final
+Uinta,,WY,2215,"Bridger Valley Elec Assn, Inc",2001-01-01,56,56041,final
+Box Elder,,UT,2220,Brigham City Corporation,2001-01-01,49,49003,final
+Decatur,,GA,2236,Town of Brinson,2001-01-01,13,13087,final
+Sullivan,,TN,2247,Bristol City of,2001-01-01,47,47163,final
+Sullivan,,TN,2248,Bristol Virginia Utilities,2001-01-01,47,47163,final
+Scott,,VA,2248,Bristol Virginia Utilities,2001-01-01,51,51169,final
+Washington,,VA,2248,Bristol Virginia Utilities,2001-01-01,51,51191,final
+Bourbon,,KS,2270,City of Bronson,2001-01-01,20,20011,final
+Chautauqua,,NY,2272,Village of Brocton,2001-01-01,36,36013,final
+Green,,WI,2273,Brodhead Water & Lighting Comm,2001-01-01,55,55045,final
+Custer,,NE,2277,City of Broken Bow,2001-01-01,31,31041,final
+Brookings,,SD,2285,Brookings City of,2001-01-01,46,46011,final
+Poweshiek,,IA,2287,City of Brooklyn,2001-01-01,19,19157,final
+Morgan,,IN,2289,Town of Brooklyn,2001-01-01,18,18109,final
+White,,IN,2304,Town of Brookston,2001-01-01,18,18181,final
+Blue Earth,,MN,2316,Brown County Rural Elec Assn,2001-01-01,27,27013,final
+Brown,,MN,2316,Brown County Rural Elec Assn,2001-01-01,27,27015,final
+Cottonwood,,MN,2316,Brown County Rural Elec Assn,2001-01-01,27,27033,final
+Nicollet,,MN,2316,Brown County Rural Elec Assn,2001-01-01,27,27103,final
+Redwood,,MN,2316,Brown County Rural Elec Assn,2001-01-01,27,27127,final
+Renville,,MN,2316,Brown County Rural Elec Assn,2001-01-01,27,27129,final
+Sibley,,MN,2316,Brown County Rural Elec Assn,2001-01-01,27,27143,final
+Watonwan,,MN,2316,Brown County Rural Elec Assn,2001-01-01,27,27165,final
+Atchison,,KS,2354,"The Brown-Atchison E C A, Inc",2001-01-01,20,20005,final
+Brown,,KS,2354,"The Brown-Atchison E C A, Inc",2001-01-01,20,20013,final
+Doniphan,,KS,2354,"The Brown-Atchison E C A, Inc",2001-01-01,20,20043,final
+Jackson,,KS,2354,"The Brown-Atchison E C A, Inc",2001-01-01,20,20085,final
+Jefferson,,KS,2354,"The Brown-Atchison E C A, Inc",2001-01-01,20,20087,final
+Nemaha,,KS,2354,"The Brown-Atchison E C A, Inc",2001-01-01,20,20131,final
+Burke,,ND,2394,Burke-Divide Electric Coop Inc,2001-01-01,38,38013,final
+Divide,,ND,2394,Burke-Divide Electric Coop Inc,2001-01-01,38,38023,final
+Mountrail,,ND,2394,Burke-Divide Electric Coop Inc,2001-01-01,38,38061,final
+Renville,,ND,2394,Burke-Divide Electric Coop Inc,2001-01-01,38,38075,final
+Ward,,ND,2394,Burke-Divide Electric Coop Inc,2001-01-01,38,38101,final
+Williams,,ND,2394,Burke-Divide Electric Coop Inc,2001-01-01,38,38105,final
+Terry,,TX,2404,City of Brownfield,2001-01-01,48,48445,final
+Cameron,,TX,2409,Brownsville Public Utilities Board,2001-01-01,48,48061,final
+Haywood,,TN,2411,City of Brownsville,2001-01-01,47,47075,final
+McLeod,,MN,2412,City of Brownton,2001-01-01,27,27085,final
+Pike,,AL,2423,City of Brundidge,2001-01-01,1,1109,final
+Williams,,OH,2439,City of Bryan,2001-01-01,39,39171,final
+Brazos,,TX,2442,City of Bryan (Rural Electric Division),2001-01-01,48,48041,final
+Burleson,,TX,2442,City of Bryan (Rural Electric Division),2001-01-01,48,48051,final
+Robertson,,TX,2442,City of Bryan (Rural Electric Division),2001-01-01,48,48395,final
+Hamlin,,SD,2448,City of Bryant,2001-01-01,46,46057,final
+Maricopa,,AZ,2469,Buckeye Irrigation District,2001-01-01,4,4013,final
+Wright,,MN,2485,City of Buffalo,2001-01-01,27,27171,final
+Gwinnett,,GA,2487,City of Buford,2001-01-01,13,13135,final
+Hall,,GA,2487,City of Buford,2001-01-01,13,13139,final
+Saint Louis,,MN,2491,City of Buhl,2001-01-01,27,27137,final
+Athens,,OH,2502,"Buckeye Rural Elec Coop, Inc",2001-01-01,39,39009,final
+Gallia,,OH,2502,"Buckeye Rural Elec Coop, Inc",2001-01-01,39,39053,final
+Jackson,,OH,2502,"Buckeye Rural Elec Coop, Inc",2001-01-01,39,39079,final
+Lawrence,,OH,2502,"Buckeye Rural Elec Coop, Inc",2001-01-01,39,39087,final
+Meigs,,OH,2502,"Buckeye Rural Elec Coop, Inc",2001-01-01,39,39105,final
+Pike,,OH,2502,"Buckeye Rural Elec Coop, Inc",2001-01-01,39,39131,final
+Ross,,OH,2502,"Buckeye Rural Elec Coop, Inc",2001-01-01,39,39141,final
+Scioto,,OH,2502,"Buckeye Rural Elec Coop, Inc",2001-01-01,39,39145,final
+Vinton,,OH,2502,"Buckeye Rural Elec Coop, Inc",2001-01-01,39,39163,final
+Los Angeles,,CA,2507,City of Burbank,2001-01-01,6,6037,final
+Gregory,,SD,2534,City of Burke,2001-01-01,46,46053,final
+Cassia,,ID,2545,City of Burley,2001-01-01,16,16031,final
+Minidoka,,ID,2545,City of Burley,2001-01-01,16,16067,final
+Osage,,KS,2547,City of Burlingame,2001-01-01,20,20139,final
+Chittenden,,VT,2548,Burlington City of,2001-01-01,50,50007,final
+Kit Carson,,CO,2550,City of Burlington,2001-01-01,8,8063,final
+Coffey,,KS,2551,City of Burlington,2001-01-01,20,20031,final
+Alfalfa,,OK,2553,City of Burlington,2001-01-01,40,40003,final
+Burnet,,TX,2559,City of Burnet,2001-01-01,48,48053,final
+Burt,,NE,2599,Burt County Public Power Dist,2001-01-01,31,31021,final
+Colfax,,NE,2599,Burt County Public Power Dist,2001-01-01,31,31037,final
+Cuming,,NE,2599,Burt County Public Power Dist,2001-01-01,31,31039,final
+Dodge,,NE,2599,Burt County Public Power Dist,2001-01-01,31,31053,final
+Thurston,,NE,2599,Burt County Public Power Dist,2001-01-01,31,31173,final
+Washington,,NE,2599,Burt County Public Power Dist,2001-01-01,31,31177,final
+Kossuth,,IA,2600,City of Burt,2001-01-01,19,19109,final
+Garfield,,NE,2609,City of Burwell,2001-01-01,31,31071,final
+Sumter,,FL,2633,City of Bushnell,2001-01-01,12,12119,final
+McDonough,,IL,2634,City of Bushnell,2001-01-01,17,17109,final
+Butler,,KS,2641,"Butler Rural El Coop Assn, Inc",2001-01-01,20,20015,final
+Chase,,KS,2641,"Butler Rural El Coop Assn, Inc",2001-01-01,20,20017,final
+Cowley,,KS,2641,"Butler Rural El Coop Assn, Inc",2001-01-01,20,20035,final
+Greenwood,,KS,2641,"Butler Rural El Coop Assn, Inc",2001-01-01,20,20073,final
+Harvey,,KS,2641,"Butler Rural El Coop Assn, Inc",2001-01-01,20,20079,final
+Marion,,KS,2641,"Butler Rural El Coop Assn, Inc",2001-01-01,20,20115,final
+Sedgwick,,KS,2641,"Butler Rural El Coop Assn, Inc",2001-01-01,20,20173,final
+Butler,,NE,2643,Butler County Rural P P D,2001-01-01,31,31023,final
+Saunders,,NE,2643,Butler County Rural P P D,2001-01-01,31,31155,final
+Bates,,MO,2647,City of Butler,2001-01-01,29,29013,final
+Morris,,NJ,2650,Borough of Butler,2001-01-01,34,34027,final
+Butler,,OH,2651,Butler Rural Electric Coop Inc,2001-01-01,39,39017,final
+Hamilton,,OH,2651,Butler Rural Electric Coop Inc,2001-01-01,39,39061,final
+Montgomery,,OH,2651,Butler Rural Electric Coop Inc,2001-01-01,39,39113,final
+Preble,,OH,2651,Butler Rural Electric Coop Inc,2001-01-01,39,39135,final
+Bremer,,IA,2652,Butler County Rural Elec Coop,2001-01-01,19,19017,final
+Butler,,IA,2652,Butler County Rural Elec Coop,2001-01-01,19,19023,final
+Cerro Gordo,,IA,2652,Butler County Rural Elec Coop,2001-01-01,19,19033,final
+Chickasaw,,IA,2652,Butler County Rural Elec Coop,2001-01-01,19,19037,final
+Fayette,,IA,2652,Butler County Rural Elec Coop,2001-01-01,19,19065,final
+Floyd,,IA,2652,Butler County Rural Elec Coop,2001-01-01,19,19067,final
+Franklin,,IA,2652,Butler County Rural Elec Coop,2001-01-01,19,19069,final
+Butte,,SD,2655,"Butte Electric Coop, Inc",2001-01-01,46,46019,final
+Lawrence,,SD,2655,"Butte Electric Coop, Inc",2001-01-01,46,46081,final
+Meade,,SD,2655,"Butte Electric Coop, Inc",2001-01-01,46,46093,final
+Bradley,,AR,2678,C & L Electric Coop Corp,2001-01-01,5,5011,final
+Cleveland,,AR,2678,C & L Electric Coop Corp,2001-01-01,5,5025,final
+Dallas,,AR,2678,C & L Electric Coop Corp,2001-01-01,5,5039,final
+Desha,,AR,2678,C & L Electric Coop Corp,2001-01-01,5,5041,final
+Drew,,AR,2678,C & L Electric Coop Corp,2001-01-01,5,5043,final
+Grant,,AR,2678,C & L Electric Coop Corp,2001-01-01,5,5053,final
+Jefferson,,AR,2678,C & L Electric Coop Corp,2001-01-01,5,5069,final
+Lincoln,,AR,2678,C & L Electric Coop Corp,2001-01-01,5,5079,final
+Texas,,MO,2726,City of Cabool,2001-01-01,29,29215,final
+Chippewa,,WI,2759,Village of Cadott,2001-01-01,55,55017,final
+Grady,,GA,2773,City of Cairo,2001-01-01,13,13131,final
+Barber,,KS,2774,"CMS Electric Cooperative, Inc",2001-01-01,20,20007,final
+Clark,,KS,2774,"CMS Electric Cooperative, Inc",2001-01-01,20,20025,final
+Comanche,,KS,2774,"CMS Electric Cooperative, Inc",2001-01-01,20,20033,final
+Ford,,KS,2774,"CMS Electric Cooperative, Inc",2001-01-01,20,20057,final
+Gray,,KS,2774,"CMS Electric Cooperative, Inc",2001-01-01,20,20069,final
+Haskell,,KS,2774,"CMS Electric Cooperative, Inc",2001-01-01,20,20081,final
+Kiowa,,KS,2774,"CMS Electric Cooperative, Inc",2001-01-01,20,20097,final
+Meade,,KS,2774,"CMS Electric Cooperative, Inc",2001-01-01,20,20119,final
+Seward,,KS,2774,"CMS Electric Cooperative, Inc",2001-01-01,20,20175,final
+Stevens,,KS,2774,"CMS Electric Cooperative, Inc",2001-01-01,20,20189,final
+Alexander,,IL,2776,Cairo Public Utility Company,2001-01-01,17,17003,final
+Pulaski,,IL,2776,Cairo Public Utility Company,2001-01-01,17,17153,final
+Burleson,,TX,2800,City of Caldwell,2001-01-01,48,48051,final
+Webster,,IA,2809,City of Callender,2001-01-01,19,19187,final
+Houston,,MN,2810,City of Caledonia,2001-01-01,27,27055,final
+Gordon,,GA,2812,City of Calhoun,2001-01-01,13,13129,final
+Lincoln,,NV,2821,City of Caliente,2001-01-01,32,32017,final
+Attala,,MS,2849,Central Electric Power Assn,2001-01-01,28,28007,final
+Leake,,MS,2849,Central Electric Power Assn,2001-01-01,28,28079,final
+Newton,,MS,2849,Central Electric Power Assn,2001-01-01,28,28101,final
+Rankin,,MS,2849,Central Electric Power Assn,2001-01-01,28,28121,final
+Scott,,MS,2849,Central Electric Power Assn,2001-01-01,28,28123,final
+Tate,,MS,2849,Central Electric Power Assn,2001-01-01,28,28137,final
+Moniteau,,MO,2851,City of California,2001-01-01,29,29135,final
+Custer,,NE,2859,Village of Callaway,2001-01-01,31,31041,final
+Middlesex,,MA,2886,Cambridge Electric Light Co,2001-01-01,25,25017,final
+Furnas,,NE,2888,City of Cambridge,2001-01-01,31,31065,final
+Kershaw,,SC,2890,City of Camden,2001-01-01,45,45055,final
+Lee,,SC,2890,City of Camden,2001-01-01,45,45061,final
+Sumter,,SC,2890,City of Camden,2001-01-01,45,45085,final
+Clinton,,MO,2900,City of Cameron,2001-01-01,29,29049,final
+DeKalb,,MO,2900,City of Cameron,2001-01-01,29,29063,final
+Bryan,,GA,2903,Canoochee Electric Member Corp,2001-01-01,13,13029,final
+Bulloch,,GA,2903,Canoochee Electric Member Corp,2001-01-01,13,13031,final
+Chatham,,GA,2903,Canoochee Electric Member Corp,2001-01-01,13,13051,final
+Emanuel,,GA,2903,Canoochee Electric Member Corp,2001-01-01,13,13107,final
+Evans,,GA,2903,Canoochee Electric Member Corp,2001-01-01,13,13109,final
+Liberty,,GA,2903,Canoochee Electric Member Corp,2001-01-01,13,13179,final
+Long,,GA,2903,Canoochee Electric Member Corp,2001-01-01,13,13183,final
+Tattnall,,GA,2903,Canoochee Electric Member Corp,2001-01-01,13,13267,final
+Toombs,,GA,2903,Canoochee Electric Member Corp,2001-01-01,13,13279,final
+Mitchell,,GA,2910,City of Camilla,2001-01-01,13,13205,final
+Cleveland,,OK,2911,"Canadian Valley Elec Coop, Inc",2001-01-01,40,40027,final
+Creek,,OK,2911,"Canadian Valley Elec Coop, Inc",2001-01-01,40,40037,final
+Hughes,,OK,2911,"Canadian Valley Elec Coop, Inc",2001-01-01,40,40063,final
+Lincoln,,OK,2911,"Canadian Valley Elec Coop, Inc",2001-01-01,40,40081,final
+Mcintosh,,OK,2911,"Canadian Valley Elec Coop, Inc",2001-01-01,40,40091,final
+Okfuskee,,OK,2911,"Canadian Valley Elec Coop, Inc",2001-01-01,40,40107,final
+Oklahoma,,OK,2911,"Canadian Valley Elec Coop, Inc",2001-01-01,40,40109,final
+Okmulgee,,OK,2911,"Canadian Valley Elec Coop, Inc",2001-01-01,40,40111,final
+Pottawatomie,,OK,2911,"Canadian Valley Elec Coop, Inc",2001-01-01,40,40125,final
+Seminole,,OK,2911,"Canadian Valley Elec Coop, Inc",2001-01-01,40,40133,final
+Dunklin,,MO,2930,City of Campbell,2001-01-01,29,29069,final
+Franklin,,NE,2931,Village of Campbell,2001-01-01,31,31061,final
+Clackamas,,OR,2955,Canby Utility Board,2001-01-01,41,41005,final
+Cannon,,TN,2960,"Caney Fork Electric Coop, Inc",2001-01-01,47,47015,final
+Coffee,,TN,2960,"Caney Fork Electric Coop, Inc",2001-01-01,47,47031,final
+DeKalb,,TN,2960,"Caney Fork Electric Coop, Inc",2001-01-01,47,47041,final
+Grundy,,TN,2960,"Caney Fork Electric Coop, Inc",2001-01-01,47,47061,final
+Putnam,,TN,2960,"Caney Fork Electric Coop, Inc",2001-01-01,47,47141,final
+Van Buren,,TN,2960,"Caney Fork Electric Coop, Inc",2001-01-01,47,47175,final
+Warren,,TN,2960,"Caney Fork Electric Coop, Inc",2001-01-01,47,47177,final
+White,,TN,2960,"Caney Fork Electric Coop, Inc",2001-01-01,47,47185,final
+Butler,,KS,2961,"Caney Valley El Coop Assn, Inc",2001-01-01,20,20015,final
+Chautauqua,,KS,2961,"Caney Valley El Coop Assn, Inc",2001-01-01,20,20019,final
+Cowley,,KS,2961,"Caney Valley El Coop Assn, Inc",2001-01-01,20,20035,final
+Elk,,KS,2961,"Caney Valley El Coop Assn, Inc",2001-01-01,20,20049,final
+Montgomery,,KS,2961,"Caney Valley El Coop Assn, Inc",2001-01-01,20,20125,final
+Perry,,IN,2964,Cannelton Utilities,2001-01-01,18,18123,final
+Madison,,MS,2974,Canton Municipal Utilities,2001-01-01,28,28089,final
+Dare,,NC,2982,Cape Hatteras Elec Member Corp,2001-01-01,37,37055,final
+Burleigh,,ND,2985,"Capital Electric Coop, Inc",2001-01-01,38,38015,final
+Emmons,,ND,2985,"Capital Electric Coop, Inc",2001-01-01,38,38029,final
+Kidder,,ND,2985,"Capital Electric Coop, Inc",2001-01-01,38,38043,final
+McLean,,ND,2985,"Capital Electric Coop, Inc",2001-01-01,38,38055,final
+Sheridan,,ND,2985,"Capital Electric Coop, Inc",2001-01-01,38,38083,final
+Campbell,,SD,2986,"Cam Wal Electric Coop, Inc",2001-01-01,46,46021,final

@@ -1,0 +1,619 @@
+State,County Name,FIPS State,FIPS County
+Delaware,Kent,10,001
+Delaware,New Castle,10,003
+Delaware,Sussex,10,005
+District of Columbia,Montgomery,11,031
+Georgia,Appling,13,001
+Georgia,Atkinson,13,003
+Georgia,Bacon,13,005
+Georgia,Baker,13,007
+Georgia,Baldwin,13,009
+Georgia,Banks,13,011
+Georgia,Barrow,13,013
+Georgia,Bartow,13,015
+Georgia,Ben Hill,13,017
+Georgia,Berrien,13,019
+Georgia,Bibb,13,021
+Georgia,Bleckley,13,023
+Georgia,Brantley,13,025
+Georgia,Brooks,13,027
+Georgia,Bryan,13,029
+Georgia,Bulloch,13,031
+Georgia,Burke,13,033
+Georgia,Butts,13,035
+Georgia,Calhoun,13,037
+Georgia,Camden,13,039
+Georgia,Candler,13,043
+Georgia,Carroll,13,045
+Georgia,Catoosa,13,047
+Georgia,Charlton,13,049
+Georgia,Chatham,13,051
+Georgia,Chattahoochee,13,053
+Georgia,Chattooga,13,055
+Georgia,Cherokee,13,057
+Georgia,Clarke,13,059
+Georgia,Clay,13,061
+Georgia,Clayton,13,063
+Georgia,Clinch,13,065
+Georgia,Cobb,13,067
+Georgia,Coffee,13,069
+Georgia,Colquitt,13,071
+Georgia,Columbia,13,073
+Georgia,Cook,13,075
+Georgia,Coweta,13,077
+Georgia,Crawford,13,079
+Georgia,Crisp,13,081
+Georgia,Dade,13,083
+Georgia,Dawson,13,085
+Georgia,Decatur,13,087
+Georgia,De Kalb,13,089
+Georgia,Dodge,13,091
+Georgia,Dooly,13,093
+Georgia,Dougherty,13,095
+Georgia,Douglas,13,097
+Georgia,Early,13,099
+Georgia,Echols,13,101
+Georgia,Effingham,13,103
+Georgia,Elbert,13,105
+Georgia,Emanuel,13,107
+Georgia,Evans,13,109
+Georgia,Fannin,13,111
+Georgia,Fayette,13,113
+Georgia,Floyd,13,115
+Georgia,Forsyth,13,117
+Georgia,Franklin,13,119
+Georgia,Fulton,13,121
+Georgia,Gilmer,13,123
+Georgia,Glascock,13,125
+Georgia,Glynn,13,127
+Georgia,Gordon,13,129
+Georgia,Grady,13,131
+Georgia,Greene,13,133
+Georgia,Gwinnett,13,135
+Georgia,Habersham,13,137
+Georgia,Hall,13,139
+Georgia,Hancock,13,141
+Georgia,Haralson,13,143
+Georgia,Harris,13,145
+Georgia,Hart,13,147
+Georgia,Heard,13,149
+Georgia,Henry,13,151
+Georgia,Houston,13,153
+Georgia,Irwin,13,155
+Georgia,Jackson,13,157
+Georgia,Jasper,13,159
+Georgia,Jeff Davis,13,161
+Georgia,Jefferson,13,163
+Georgia,Jenkins,13,165
+Georgia,Johnson,13,167
+Georgia,Jones,13,169
+Georgia,Lamar,13,171
+Georgia,Lanier,13,173
+Georgia,Laurens,13,175
+Georgia,Lee,13,177
+Georgia,Liberty,13,179
+Georgia,Lincoln,13,181
+Georgia,Long,13,183
+Georgia,Lowndes,13,185
+Georgia,Lumpkin,13,187
+Georgia,McDuffie,13,189
+Georgia,McIntosh,13,191
+Georgia,Macon,13,193
+Georgia,Madison,13,195
+Georgia,Marion,13,197
+Georgia,Meriwether,13,199
+Georgia,Miller,13,201
+Georgia,Mitchell,13,205
+Georgia,Monroe,13,207
+Georgia,Montgomery,13,209
+Georgia,Morgan,13,211
+Georgia,Murray,13,213
+Georgia,Muscogee,13,215
+Georgia,Newton,13,217
+Georgia,Oconee,13,219
+Georgia,Oglethorpe,13,221
+Georgia,Paulding,13,223
+Georgia,Peach,13,225
+Georgia,Pickens,13,227
+Georgia,Pierce,13,229
+Georgia,Pike,13,231
+Georgia,Polk,13,233
+Georgia,Pulaski,13,235
+Georgia,Putnam,13,237
+Georgia,Quitman,13,239
+Georgia,Rabun,13,241
+Georgia,Randolph,13,243
+Georgia,Richmond,13,245
+Georgia,Rockdale,13,247
+Georgia,Schley,13,249
+Georgia,Screven,13,251
+Georgia,Seminole,13,253
+Georgia,Spalding,13,255
+Georgia,Stephens,13,257
+Georgia,Stewart,13,259
+Georgia,Sumter,13,261
+Georgia,Talbot,13,263
+Georgia,Taliaferro,13,265
+Georgia,Tattnall,13,267
+Georgia,Taylor,13,269
+Georgia,Telfair,13,271
+Georgia,Terrell,13,273
+Georgia,Thomas,13,275
+Georgia,Tift,13,277
+Georgia,Toombs,13,279
+Georgia,Towns,13,281
+Georgia,Treutlen,13,283
+Georgia,Troup,13,285
+Georgia,Turner,13,287
+Georgia,Twiggs,13,289
+Georgia,Union,13,291
+Georgia,Upson,13,293
+Georgia,Walker,13,295
+Georgia,Walton,13,297
+Georgia,Ware,13,299
+Georgia,Warren,13,301
+Georgia,Washington,13,303
+Georgia,Wayne,13,305
+Georgia,Webster,13,307
+Georgia,Wheeler,13,309
+Georgia,White,13,311
+Georgia,Whitfield,13,313
+Georgia,Wilcox,13,315
+Georgia,Wilkes,13,317
+Georgia,Wilkinson,13,319
+Georgia,Worth,13,321
+Kansas,Allen,20,001
+Kansas,Anderson,20,003
+Kansas,Atchison,20,005
+Kansas,Barber,20,007
+Kansas,Barton,20,009
+Kansas,Bourbon,20,011
+Kansas,Brown,20,013
+Kansas,Butler,20,015
+Kansas,Chase,20,017
+Kansas,Chautauqua,20,019
+Kansas,Cherokee,20,021
+Kansas,Cheyenne,20,023
+Kansas,Clark,20,025
+Kansas,Clay,20,027
+Kansas,Cloud,20,029
+Kansas,Coffey,20,031
+Kansas,Comanche,20,033
+Kansas,Cowley,20,035
+Kansas,Crawford,20,037
+Kansas,Decatur,20,039
+Kansas,Dickinson,20,041
+Kansas,Doniphan,20,043
+Kansas,Douglas,20,045
+Kansas,Edwards,20,047
+Kansas,Elk,20,049
+Kansas,Ellis,20,051
+Kansas,Ellsworth,20,053
+Kansas,Finney,20,055
+Kansas,Ford,20,057
+Kansas,Franklin,20,059
+Kansas,Geary,20,061
+Kansas,Gove,20,063
+Kansas,Graham,20,065
+Kansas,Grant,20,067
+Kansas,Gray,20,069
+Kansas,Greeley,20,071
+Kansas,Greenwood,20,073
+Kansas,Hamilton,20,075
+Kansas,Harper,20,077
+Kansas,Harvey,20,079
+Kansas,Haskell,20,081
+Kansas,Hodgeman,20,083
+Kansas,Jackson,20,085
+Kansas,Jefferson,20,087
+Kansas,Jewell,20,089
+Kansas,Johnson,20,091
+Kansas,Kearny,20,093
+Kansas,Kingman,20,095
+Kansas,Kiowa,20,097
+Kansas,Labette,20,099
+Kansas,Lane,20,101
+Kansas,Leavenworth,20,103
+Kansas,Lincoln,20,105
+Kansas,Linn,20,107
+Kansas,Logan,20,109
+Kansas,Lyon,20,111
+Kansas,McPherson,20,113
+Kansas,Marion,20,115
+Kansas,Marshall,20,117
+Kansas,Meade,20,119
+Kansas,Miami,20,121
+Kansas,Mitchell,20,123
+Kansas,Montgomery,20,125
+Kansas,Morris,20,127
+Kansas,Morton,20,129
+Kansas,Nemaha,20,131
+Kansas,Neosho,20,133
+Kansas,Ness,20,135
+Kansas,Norton,20,137
+Kansas,Osage,20,139
+Kansas,Osborne,20,141
+Kansas,Ottawa,20,143
+Kansas,Pawnee,20,145
+Kansas,Phillips,20,147
+Kansas,Pottawatomie,20,149
+Kansas,Pratt,20,151
+Kansas,Rawlins,20,153
+Kansas,Reno,20,155
+Kansas,Republic,20,157
+Kansas,Rice,20,159
+Kansas,Riley,20,161
+Kansas,Rooks,20,163
+Kansas,Rush,20,165
+Kansas,Russell,20,167
+Kansas,Saline,20,169
+Kansas,Scott,20,171
+Kansas,Sedgwick,20,173
+Kansas,Seward,20,175
+Kansas,Shawnee,20,177
+Kansas,Sheridan,20,179
+Kansas,Sherman,20,181
+Kansas,Smith,20,183
+Kansas,Stafford,20,185
+Kansas,Stanton,20,187
+Kansas,Stevens,20,189
+Kansas,Sumner,20,191
+Kansas,Thomas,20,193
+Kansas,Trego,20,195
+Kansas,Wabaunsee,20,197
+Kansas,Wallace,20,199
+Kansas,Washington,20,201
+Kansas,Wichita,20,203
+Kansas,Wilson,20,205
+Kansas,Woodson,20,207
+Kansas,Wyandotte,20,209
+Montana,Beaverhead,30,001
+Montana,Big Horn,30,003
+Montana,Blaine,30,005
+Montana,Broadwater,30,007
+Montana,Carbon,30,009
+Montana,Carter,30,011
+Montana,Cascade,30,013
+Montana,Chouteau,30,015
+Montana,Custer,30,017
+Montana,Daniels,30,019
+Montana,Dawson,30,021
+Montana,Deer Lodge,30,023
+Montana,Fallon,30,025
+Montana,Fergus,30,027
+Montana,Flathead,30,029
+Montana,Gallatin,30,031
+Montana,Garfield,30,033
+Montana,Glacier,30,035
+Montana,Golden Valley,30,037
+Montana,Granite,30,039
+Montana,Hill,30,041
+Montana,Jefferson,30,043
+Montana,Judith Basin,30,045
+Montana,Lake,30,047
+Montana,Lewis and Clark,30,049
+Montana,Liberty,30,051
+Montana,Lincoln,30,053
+Montana,McCone,30,055
+Montana,Madison,30,057
+Montana,Meagher,30,059
+Montana,Mineral,30,061
+Montana,Missoula,30,063
+Montana,Musselshell,30,065
+Montana,Park,30,067
+Montana,Petroleum,30,069
+Montana,Phillips,30,071
+Montana,Pondera,30,073
+Montana,Powder River,30,075
+Montana,Powell,30,077
+Montana,Prairie,30,079
+Montana,Ravalli,30,081
+Montana,Richland,30,083
+Montana,Roosevelt,30,085
+Montana,Rosebud,30,087
+Montana,Sanders,30,089
+Montana,Sheridan,30,091
+Montana,Silver Bow,30,093
+Montana,Stillwater,30,095
+Montana,Sweet Grass,30,097
+Montana,Teton,30,099
+Montana,Toole,30,101
+Montana,Treasure,30,103
+Montana,Valley,30,105
+Montana,Wheatland,30,107
+Montana,Wibaux,30,109
+Montana,Yellowstone,30,111
+Nebraska,Adams,31,001
+Nebraska,Antelope,31,003
+Nebraska,Arthur,31,005
+Nebraska,Banner,31,007
+Nebraska,Blaine,31,009
+Nebraska,Boone,31,011
+Nebraska,Box Butte,31,013
+Nebraska,Boyd,31,015
+Nebraska,Brown,31,017
+Nebraska,Buffalo,31,019
+Nebraska,Burt,31,021
+Nebraska,Butler,31,023
+Nebraska,Cass,31,025
+Nebraska,Cedar,31,027
+Nebraska,Chase,31,029
+Nebraska,Cherry,31,031
+Nebraska,Cheyenne,31,033
+Nebraska,Clay,31,035
+Nebraska,Colfax,31,037
+Nebraska,Cuming,31,039
+Nebraska,Custer,31,041
+Nebraska,Dakota,31,043
+Nebraska,Dawes,31,045
+Nebraska,Dawson,31,047
+Nebraska,Deuel,31,049
+Nebraska,Dixon,31,051
+Nebraska,Dodge,31,053
+Nebraska,Douglas,31,055
+Nebraska,Dundy,31,057
+Nebraska,Fillmore,31,059
+Nebraska,Franklin,31,061
+Nebraska,Frontier,31,063
+Nebraska,Furnas,31,065
+Nebraska,Gage,31,067
+Nebraska,Garden,31,069
+Nebraska,Garfield,31,071
+Nebraska,Gosper,31,073
+Nebraska,Grant,31,075
+Nebraska,Greeley,31,077
+Nebraska,Hall,31,079
+Nebraska,Hamilton,31,081
+Nebraska,Harlan,31,083
+Nebraska,Hayes,31,085
+Nebraska,Hitchcock,31,087
+Nebraska,Holt,31,089
+Nebraska,Hooker,31,091
+Nebraska,Howard,31,093
+Nebraska,Jefferson,31,095
+Nebraska,Johnson,31,097
+Nebraska,Kearney,31,099
+Nebraska,Keith,31,101
+Nebraska,Keya Paha,31,103
+Nebraska,Kimball,31,105
+Nebraska,Knox,31,107
+Nebraska,Lancaster,31,109
+Nebraska,Lincoln,31,111
+Nebraska,Logan,31,113
+Nebraska,Loup,31,115
+Nebraska,McPherson,31,117
+Nebraska,Madison,31,119
+Nebraska,Merrick,31,121
+Nebraska,Morrill,31,123
+Nebraska,Nance,31,125
+Nebraska,Nemaha,31,127
+Nebraska,Nuckolls,31,129
+Nebraska,Otoe,31,131
+Nebraska,Pawnee,31,133
+Nebraska,Perkins,31,135
+Nebraska,Phelps,31,137
+Nebraska,Pierce,31,139
+Nebraska,Platte,31,141
+Nebraska,Polk,31,143
+Nebraska,Red Willow,31,145
+Nebraska,Richardson,31,147
+Nebraska,Rock,31,149
+Nebraska,Saline,31,151
+Nebraska,Sarpy,31,153
+Nebraska,Saunders,31,155
+Nebraska,Scotts Bluff,31,157
+Nebraska,Seward,31,159
+Nebraska,Sheridan,31,161
+Nebraska,Sherman,31,163
+Nebraska,Sioux,31,165
+Nebraska,Stanton,31,167
+Nebraska,Thayer,31,169
+Nebraska,Thomas,31,171
+Nebraska,Thurston,31,173
+Nebraska,Valley,31,175
+Nebraska,Washington,31,177
+Nebraska,Wayne,31,179
+Nebraska,Webster,31,181
+Nebraska,Wheeler,31,183
+Nebraska,York,31,185
+New Hampshire,Belknap,33,001
+New Hampshire,Carroll,33,003
+New Hampshire,Cheshire,33,005
+New Hampshire,Coos,33,007
+New Hampshire,Grafton,33,009
+New Hampshire,Hillsborough,33,011
+New Hampshire,Merrimack,33,013
+New Hampshire,Rockingham,33,015
+New Hampshire,Strafford,33,017
+New Hampshire,Sullivan,33,019
+Pennsylvania,Adams,42,001
+Pennsylvania,Allegheny,42,003
+Pennsylvania,Armstrong,42,005
+Pennsylvania,Beaver,42,007
+Pennsylvania,Bedford,42,009
+Pennsylvania,Berks,42,011
+Pennsylvania,Blair,42,013
+Pennsylvania,Bradford,42,015
+Pennsylvania,Bucks,42,017
+Pennsylvania,Butler,42,019
+Pennsylvania,Cambria,42,021
+Pennsylvania,Cameron,42,023
+Pennsylvania,Carbon,42,025
+Pennsylvania,Centre,42,027
+Pennsylvania,Chester,42,029
+Pennsylvania,Clarion,42,031
+Pennsylvania,Clearfield,42,033
+Pennsylvania,Clinton,42,035
+Pennsylvania,Columbia,42,037
+Pennsylvania,Crawford,42,039
+Pennsylvania,Cumberland,42,041
+Pennsylvania,Dauphin,42,043
+Pennsylvania,Delaware,42,045
+Pennsylvania,Elk,42,047
+Pennsylvania,Erie,42,049
+Pennsylvania,Fayette,42,051
+Pennsylvania,Forest,42,053
+Pennsylvania,Franklin,42,055
+Pennsylvania,Fulton,42,057
+Pennsylvania,Greene,42,059
+Pennsylvania,Huntingdon,42,061
+Pennsylvania,Indiana,42,063
+Pennsylvania,Jefferson,42,065
+Pennsylvania,Juniata,42,067
+Pennsylvania,Lackawanna,42,069
+Pennsylvania,Lancaster,42,071
+Pennsylvania,Lawrence,42,073
+Pennsylvania,Lebanon,42,075
+Pennsylvania,Lehigh,42,077
+Pennsylvania,Luzerne,42,079
+Pennsylvania,Lycoming,42,081
+Pennsylvania,McKean,42,083
+Pennsylvania,Mercer,42,085
+Pennsylvania,Mifflin,42,087
+Pennsylvania,Monroe,42,089
+Pennsylvania,Montgomery,42,091
+Pennsylvania,Montour,42,093
+Pennsylvania,Northampton,42,095
+Pennsylvania,Northumberland,42,097
+Pennsylvania,Perry,42,099
+Pennsylvania,Philadelphia,42,101
+Pennsylvania,Pike,42,103
+Pennsylvania,Potter,42,105
+Pennsylvania,Schuylkill,42,107
+Pennsylvania,Snyder,42,109
+Pennsylvania,Somerset,42,111
+Pennsylvania,Sullivan,42,113
+Pennsylvania,Susquehanna,42,115
+Pennsylvania,Tioga,42,117
+Pennsylvania,Union,42,119
+Pennsylvania,Venango,42,121
+Pennsylvania,Warren,42,123
+Pennsylvania,Washington,42,125
+Pennsylvania,Wayne,42,127
+Pennsylvania,Westmoreland,42,129
+Pennsylvania,Wyoming,42,131
+Pennsylvania,York,42,133
+South Dakota,Aurora,46,003
+South Dakota,Beadle,46,005
+South Dakota,Bennett,46,007
+South Dakota,Bon Homme,46,009
+South Dakota,Brookings,46,011
+South Dakota,Brown,46,013
+South Dakota,Brule,46,015
+South Dakota,Buffalo,46,017
+South Dakota,Butte,46,019
+South Dakota,Campbell,46,021
+South Dakota,Charles Mix,46,023
+South Dakota,Clark,46,025
+South Dakota,Clay,46,027
+South Dakota,Codington,46,029
+South Dakota,Corson,46,031
+South Dakota,Custer,46,033
+South Dakota,Davison,46,035
+South Dakota,Day,46,037
+South Dakota,Deuel,46,039
+South Dakota,Dewey,46,041
+South Dakota,Douglas,46,043
+South Dakota,Edmunds,46,045
+South Dakota,Fall River,46,047
+South Dakota,Faulk,46,049
+South Dakota,Grant,46,051
+South Dakota,Gregory,46,053
+South Dakota,Haakon,46,055
+South Dakota,Hamlin,46,057
+South Dakota,Hand,46,059
+South Dakota,Hanson,46,061
+South Dakota,Harding,46,063
+South Dakota,Hughes,46,065
+South Dakota,Hutchinson,46,067
+South Dakota,Hyde,46,069
+South Dakota,Jackson,46,071
+South Dakota,Jerauld,46,073
+South Dakota,Jones,46,075
+South Dakota,Kingsbury,46,077
+South Dakota,Lake,46,079
+South Dakota,Lawrence,46,081
+South Dakota,Lincoln,46,083
+South Dakota,Lyman,46,085
+South Dakota,McCook,46,087
+South Dakota,McPherson,46,089
+South Dakota,Marshall,46,091
+South Dakota,Meade,46,093
+South Dakota,Mellette,46,095
+South Dakota,Miner,46,097
+South Dakota,Minnehaha,46,099
+South Dakota,Moody,46,101
+South Dakota,Pennington,46,103
+South Dakota,Perkins,46,105
+South Dakota,Potter,46,107
+South Dakota,Roberts,46,109
+South Dakota,Sanborn,46,111
+South Dakota,Shannon,46,113
+South Dakota,Spink,46,115
+South Dakota,Stanley,46,117
+South Dakota,Sully,46,119
+South Dakota,Todd,46,121
+South Dakota,Tripp,46,123
+South Dakota,Turner,46,125
+South Dakota,Union,46,127
+South Dakota,Walworth,46,129
+South Dakota,Yankton,46,135
+South Dakota,Ziebach,46,137
+Virginia,Bedford City,51,515
+Virginia,Clifton Forge City,51,560
+Virginia,South Boston City,51,780
+West Virginia,Barbour,54,001
+West Virginia,Berkeley,54,003
+West Virginia,Boone,54,005
+West Virginia,Braxton,54,007
+West Virginia,Brooke,54,009
+West Virginia,Cabell,54,011
+West Virginia,Calhoun,54,013
+West Virginia,Clay,54,015
+West Virginia,Doddridge,54,017
+West Virginia,Fayette,54,019
+West Virginia,Gilmer,54,021
+West Virginia,Grant,54,023
+West Virginia,Greenbrier,54,025
+West Virginia,Hampshire,54,027
+West Virginia,Hancock,54,029
+West Virginia,Hardy,54,031
+West Virginia,Harrison,54,033
+West Virginia,Jackson,54,035
+West Virginia,Jefferson,54,037
+West Virginia,Kanawha,54,039
+West Virginia,Lewis,54,041
+West Virginia,Lincoln,54,043
+West Virginia,Logan,54,045
+West Virginia,McDowell,54,047
+West Virginia,Marion,54,049
+West Virginia,Marshall,54,051
+West Virginia,Mason,54,053
+West Virginia,Mercer,54,055
+West Virginia,Mineral,54,057
+West Virginia,Mingo,54,059
+West Virginia,Monongalia,54,061
+West Virginia,Monroe,54,063
+West Virginia,Morgan,54,065
+West Virginia,Nicholas,54,067
+West Virginia,Ohio,54,069
+West Virginia,Pendleton,54,071
+West Virginia,Pleasants,54,073
+West Virginia,Pocahontas,54,075
+West Virginia,Preston,54,077
+West Virginia,Putnam,54,079
+West Virginia,Raleigh,54,081
+West Virginia,Randolph,54,083
+West Virginia,Ritchie,54,085
+West Virginia,Roane,54,087
+West Virginia,Summers,54,089
+West Virginia,Taylor,54,091
+West Virginia,Tucker,54,093
+West Virginia,Tyler,54,095
+West Virginia,Upshur,54,097
+West Virginia,Wayne,54,099
+West Virginia,Webster,54,101
+West Virginia,Wetzel,54,103
+West Virginia,Wirt,54,105
+West Virginia,Wood,54,107
+West Virginia,Wyoming,54,109
